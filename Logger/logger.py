@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Logger Class
-class Applogger:
+class Logger:
     # def __init__(self):
         # pass
 
@@ -15,5 +15,5 @@ class Applogger:
         now = datetime.now()
         # using the above instance get date and time
         date = now.date()
-        time = now.strftim("%H:%M:%S") # time in string format
-        file_obj.write(str(self.date) + '/' + self.time + '\t\t' + message +'\n')
+        time = now.strftime("%H:%M:%S") # time in string format
+        file_obj.write(str(date) + '/' + time + '\t\t' + message +'\n')
