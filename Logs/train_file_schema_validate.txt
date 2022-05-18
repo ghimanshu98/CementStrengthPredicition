@@ -10,3 +10,15 @@
 2022-05-15/16:05:48		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 9 columns, so moving file to Validated_Training_Batch_Files/BadFileSchemaDataFolder
 2022-05-15/16:05:48		cement_strength_08012020_120021.csv contains 9 columns which is equal to 9 columns, so file is good.
 2022-05-15/16:05:48		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-15/23:08:09		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-15/23:08:09		Directory Validated_Training_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-15/23:08:09		Directory Validated_Training_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-15/23:08:09		cement_strength_08012020_1200.csv is rejected, Copying it from Training_Batch_Files/cement_strength_08012020_1200.csv to Validated_Training_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-15/23:08:09		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Training_Batch_Files/cement_strength_08012020_120000.csvtoValidated_Training_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-15/23:08:09		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Training_Batch_Files/cement_strength_08012020_120021.csvtoValidated_Training_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-15/23:08:09		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 9 columns, so moving file to Validated_Training_Batch_Files/BadFileSchemaDataFolder
+2022-05-15/23:08:09		cement_strength_08012020_120021.csv contains 9 columns which is equal to 9 columns, so file is good.
+2022-05-15/23:08:10		No missing values found in file cement_strength_08012020_120021.csv

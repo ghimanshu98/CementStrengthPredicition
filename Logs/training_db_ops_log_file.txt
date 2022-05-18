@@ -1,0 +1,140 @@
+2022-05-16/00:11:19		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:15:37		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:15:37		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:15:37		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:17:25		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:17:25		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:17:25		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:21:12		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:21:28		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:21:28		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:21:28		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:22:05		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:23:11		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:24:01		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:29:11		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:29:22		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:30:01		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:30:14		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:30:14		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:30:14		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:30:27		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:30:43		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:31:29		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:32:58		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:32:58		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:32:58		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:32:58		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:33:09		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:33:09		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:33:28		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:36:12		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:36:16		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:36:16		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:36:16		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:36:46		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:44:46		Error ocurred while creating Table no such column: GoodDataTable
+2022-05-16/00:36:46		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:44:46		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:45:08		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:45:21		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:47:23		Error ocurred while creating Table incomplete input
+2022-05-16/00:49:10		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:50:59		Error ocurred while creating Table incomplete input
+2022-05-16/00:51:13		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:52:08		Error ocurred while creating Table incomplete input
+2022-05-16/00:52:27		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:53:31		Error ocurred while creating Table incomplete input
+2022-05-16/00:52:27		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/00:54:34		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/00:56:07		Error ocurred while creating Table table GoodDataTable already exists
+2022-05-16/01:01:02		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:01:18		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:01:18		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/01:01:18		Table already exists.
+2022-05-16/01:01:48		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:04:51		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:05:05		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:07:01		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:07:28		DbConnection to Database/trainingDb.db established successfully.
+2022-05-16/01:07:36		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-16/01:09:34		Table GoodDataTable created successfully
+2022-05-17/23:30:34		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:30:40		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:30:52		Table already exists.
+2022-05-17/23:31:23		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:31:23		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:32:37		Table GoodDataTable created successfully
+2022-05-17/23:32:51		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:32:51		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:32:51		Table already exists.
+2022-05-17/23:33:03		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:33:03		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:33:03		Table already exists.
+2022-05-17/23:36:09		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:36:32		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:36:32		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:37:16		Table GoodDataTable created successfully
+2022-05-17/23:50:01		Strating csv files insertion to db.
+2022-05-17/23:50:01		Error in loading file to db setUpConnection() takes 1 positional argument but 2 were given
+2022-05-17/23:51:45		Error in loading file to db setUpConnection() takes 1 positional argument but 2 were given
+2022-05-17/23:52:23		Strating csv files insertion to db.
+2022-05-17/23:52:23		Error in loading file to db setUpConnection() takes 1 positional argument but 2 were given
+2022-05-17/23:52:42		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:52:49		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:52:49		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-17/23:52:49		Table already exists.
+2022-05-17/23:55:01		Error in loading file to db setUpConnection() takes 1 positional argument but 2 were given
+2022-05-17/23:54:07		Strating csv files insertion to db.
+2022-05-17/23:57:16		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:57:34		DbConnection to Database/trainingDb.db established successfully.
+2022-05-17/23:57:32		Strating csv files insertion to db.
+2022-05-17/23:58:29		Error in loading file to db  expected at least 1 argument, got 0
+2022-05-18/00:00:28		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:00:39		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:00:39		Strating csv files insertion to db.
+2022-05-18/00:02:02		Error in loading file to db near "_component_1": syntax error
+2022-05-18/00:07:28		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:07:28		Strating csv files insertion to db.
+2022-05-18/00:08:48		Error in loading file to db near "540.0": syntax error
+2022-05-18/00:10:47		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:10:47		Strating csv files insertion to db.
+2022-05-18/00:15:02		Error in loading file to db near "540.0": syntax error
+2022-05-18/00:15:36		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:15:36		Strating csv files insertion to db.
+2022-05-18/00:16:39		Error in loading file to db incomplete input
+2022-05-18/00:21:11		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:21:11		Strating csv files insertion to db.
+2022-05-18/00:21:37		Error in loading file to db near "540.0": syntax error
+2022-05-18/00:24:10		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:24:10		Strating csv files insertion to db.
+2022-05-18/00:29:28		Error in loading file to db not enough arguments for format string
+2022-05-18/00:38:28		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/00:38:28		Strating csv files insertion to db.
+2022-05-18/00:44:35		Error in loading file to db not enough arguments for format string
+2022-05-18/00:47:26		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/11:42:36		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/11:42:34		Strating csv files insertion to db.
+2022-05-18/11:46:17		1029 records loaded successfully in db Database/trainingDb.db from file cement_strength_08012020_120021.csv
+2022-05-18/11:51:12		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/11:51:12		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-18/11:51:12		Table GoodDataTable already exists.
+2022-05-18/13:03:16		Error occurred while obtaining column names setUpConnection() takes 1 positional argument but 2 were given
+2022-05-18/13:05:21		Error occurred while obtaining column names setUpConnection() takes 1 positional argument but 2 were given
+2022-05-18/13:06:44		Error occurred while obtaining column names setUpConnection() takes 1 positional argument but 2 were given
+2022-05-18/13:07:54		Error occurred while obtaining column names setUpConnection() takes 1 positional argument but 2 were given
+2022-05-18/13:09:02		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:10:22		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:10:22		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-18/13:11:56		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:11:56		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:11:56		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-18/13:11:56		Starting record extraction from database
+2022-05-18/13:11:56		1030  records retrieved from table GoodDataTable in Database/trainingDb.db
+2022-05-18/13:13:23		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:13:23		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-18/13:13:25		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:13:25		DbConnection to Database/trainingDb.db established successfully.
+2022-05-18/13:13:25		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-18/13:13:25		Starting record extraction from database
+2022-05-18/13:13:25		1030  records retrieved from table GoodDataTable in Database/trainingDb.db
