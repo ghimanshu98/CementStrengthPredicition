@@ -11,12 +11,12 @@ class Training_data_loader:
 
     def getTrainingDataFrame(self):
         try:
-            log_file = open(self.preprocessing_log_file_path, 'a+')
+            log_file = open(self.train_data_loader_log, 'a+')
             self.log_agent.log(log_file, "Retrieving training file {}".format(self.train_ready_file_path))
 
-            df = pd.read_csv(self.train_ready_file_path)  # obtaining csv -> df
+            df = pd.read_csv(self.train_ready_file_path) # obtaining csv -> df
 
-            if df != None:
+            if df.shape[0] != 0:
                 self.log_agent.log(log_file, "DataFrame obtained successfully.")
                 return df
             else:

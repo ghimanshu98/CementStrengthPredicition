@@ -1,0 +1,10 @@
+2022-05-18/23:10:03		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-18/23:10:03		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
+2022-05-18/23:10:11		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-18/23:10:11		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
+2022-05-18/23:11:01		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-18/23:11:01		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
+2022-05-18/23:14:16		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-18/23:14:16		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
+2022-05-18/23:15:11		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-18/23:15:11		Model : scaler_model.sav saved to path Model/Saved_models successfully

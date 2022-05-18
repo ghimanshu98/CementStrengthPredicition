@@ -2,6 +2,8 @@ import numpy as np
 from Logger.logger import Logger
 from sklearn.preprocessing import StandardScaler
 from Model.Saved_models.model_saver import SaveModel
+from sklearn.impute import KNNImputer
+import pandas as pd
 
 
 class DataPreProcessing:
@@ -47,6 +49,25 @@ class DataPreProcessing:
             self.log_agent.log(log_file, "Error occurred during checking Null values in colusmns. "+str(e))
             log_file.close()
 
+    def imputeMissingData(self, dataframe):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            self.log_agent.log(log_file, "Starting Imputing process")
+            
+            # imputer object:
+            imputer = KNNImputer(n_neighbors= 3, missing_values= np.nan, weights= "uniform")
+            new_array = imputer.fit_transform(dataframe)
+            self.model_saver.save_model(imputer, "KNN_imputer")
+            # creating dataFrame using new array
+            dataframe = pd.DataFrame(new_array, columns = dataframe.columns)
+
+            self.log_agent.log(log_file, "Data imputaion succesfullly completed")
+            log_file.close()
+        except Exception as e:
+            self.log_agent.log(log_file, "Error occurred during imputaion process, "+str(e))
+            log_file.close()
+
+
     def getColNames(self, dataframe):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
@@ -61,13 +82,13 @@ class DataPreProcessing:
     def separateDependentIndependentFeatures(self, dataframe, dependent_feature):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
-            X = dataframe.drop([dependent_feature], axis = 1)
-            Y = dataframe[dependent_feature]
+            Y = dataframe.drop(dependent_feature, axis = 1)
+            X = dataframe[dependent_feature]
             self.log_agent.log(log_file, "Dependent and Independent features separated successfully.")
             log_file.close()
             return X,Y
         except Exception as e:
-            self.log_agent(log_file, "Error occurred during separating features, "+str(e))
+            self.log_agent.log(log_file, "Error occurred during separating features, "+str(e))
             log_file.close()
 
     def convertToLogNormalForm(self, dataframe, independent_feature):
@@ -90,8 +111,8 @@ class DataPreProcessing:
     def low_upp_fence(self, dataframe, feature_name, const = 1.5):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
-            q1 = dataframe[feature_name].quantile(0.25)
-            q3 = dataframe[feature_name].quantile(0.75)
+            q1 = dataframe.quantile(0.25)
+            q3 = dataframe.quantile(0.75)
             iqr = q3-q1
             lower_fence = q1 - iqr*const
             upper_fence = q3 + iqr*const
@@ -115,8 +136,8 @@ class DataPreProcessing:
             without_outlier_length = dataframe.shape[0]
             
             self.log_agent.log(log_file, "Handled Ouliers , Rows containing outlier values dropped are {}".format(with_outlier_length - without_outlier_length))
-
             log_file.close()
+            return dataframe
 
         except Exception as e:
             self.log_agent.log(log_file, "Error occurred while handling outlier "+ str(e))
@@ -145,6 +166,7 @@ class DataPreProcessing:
                 log_file.close()
                 # saving the scaler model
                 self.model_saver.save_model(scaler, "scaler_model")
+                return X_train_scaled
         except Exception as e:
             self.log_agent.log(log_file, "Error occurred while standardizing the data, "+str(e))
             log_file.close()

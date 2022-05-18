@@ -1,0 +1,36 @@
+2022-05-18/21:25:06		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:25:06		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:34:59		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:34:59		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:38:19		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:38:19		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:41:47		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:41:47		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:46:22		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:46:22		The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:57:02		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:58:24		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-18/21:58:48		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:59:03		DataFrame obtained successfully.
+2022-05-18/21:59:57		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/21:59:57		DataFrame obtained successfully.
+2022-05-18/22:23:34		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/22:23:34		DataFrame obtained successfully.
+2022-05-18/22:36:54		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/22:36:54		DataFrame obtained successfully.
+2022-05-18/22:40:36		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/22:40:36		DataFrame obtained successfully.
+2022-05-18/22:45:24		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/22:45:24		DataFrame obtained successfully.
+2022-05-18/22:55:51		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/22:55:51		DataFrame obtained successfully.
+2022-05-18/23:00:35		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/23:00:35		DataFrame obtained successfully.
+2022-05-18/23:02:03		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/23:02:03		DataFrame obtained successfully.
+2022-05-18/23:07:09		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/23:07:09		DataFrame obtained successfully.
+2022-05-18/23:10:56		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/23:10:56		DataFrame obtained successfully.
+2022-05-18/23:15:04		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-18/23:15:04		DataFrame obtained successfully.

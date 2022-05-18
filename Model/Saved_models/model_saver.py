@@ -17,7 +17,7 @@ class SaveModel:
             self.log_agent.log(log_file, "Initiating process to save model : {} to path {}".format(model_name, self.save_model_path))
 
             model_name = model_name+".sav"
-            pickle.dump(model_obj, open(self.model_save_model+"/"+model_name, 'wb'))
+            pickle.dump(model_obj, open(self.save_model_path+"/"+model_name, 'wb'))
             
             self.log_agent.log(log_file, "Model : {} saved to path {} successfully".format(model_name, self.save_model_path))
             log_file.close()
