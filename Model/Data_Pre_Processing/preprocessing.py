@@ -4,6 +4,8 @@ from sklearn.preprocessing import StandardScaler
 from Model.Saved_models.model_saver import SaveModel
 from sklearn.impute import KNNImputer
 import pandas as pd
+import json
+from sklearn.model_selection import train_test_split
 
 
 class DataPreProcessing:
@@ -68,7 +70,7 @@ class DataPreProcessing:
             log_file.close()
 
 
-    def getColNames(self, dataframe):
+    def getDfColNames(self, dataframe):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
             cols = dataframe.columns
@@ -79,11 +81,26 @@ class DataPreProcessing:
             self.log_agent.log(log_file, "Error : "+str(e))
             log_file.close()
 
+    def getColsNames(self, schema_file_path):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            with open(schema_file_path, 'r') as f:
+                dic = json.load(f)
+                cols = list(dic['Col_Name'].keys())
+                self.log_agent.log(log_file, "Col Names {} obtained successfully froms schema {}".format(cols, schema_file_path))
+                log_file.close()
+                return cols
+        except Exception as e:
+            self.log_agent.log(self.preprocessing_log_file_path, "Error while retreiving column names form schema {} ".format(schema_file_path)+str(e))
+            #self.log_agent.log(log_file, str(e))
+            log_file.close()
+
+
     def separateDependentIndependentFeatures(self, dataframe, dependent_feature):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
-            Y = dataframe.drop(dependent_feature, axis = 1)
-            X = dataframe[dependent_feature]
+            X = dataframe.drop(dependent_feature, axis = 1)
+            Y = dataframe[dependent_feature]
             self.log_agent.log(log_file, "Dependent and Independent features separated successfully.")
             log_file.close()
             return X,Y
@@ -171,15 +188,54 @@ class DataPreProcessing:
             self.log_agent.log(log_file, "Error occurred while standardizing the data, "+str(e))
             log_file.close()
 
+    def reshape_array(self, data, shape):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            self.log_agent.log(log_file, "Initiating Reshaping process of Array")
+            reshaped = np.reshape(data, newshape= shape)
+            self.log_agent.log(log_file, "Reshaping of Array completed")
+            log_file.close()
+            return reshaped
+        except Exception as e:
+            self.log_agent.log(log_file, "Error occurred while reshaing array, "+str(e))
+            log_file.close()
 
-            
+    def concatenate_array(self, array_list, axis = 1):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            self.log_agent.log(log_file, "Concatenation of Array started")
+            concatenated_array = np.concatenate(array_list, axis = axis)
+            self.log_agent.log(log_file, "Concatenation of Array completed")
+            log_file.close()
+            return concatenated_array
+        except Exception as e:
+            self.log_agent.log(log_file, "Error occurred while Concatenating Arrays, "+str(e))
+            log_file.close()
 
-            
 
+    def make_df(self, data, columns = None, axis = 1):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            self.log_agent.log(log_file, "Dataframe Creation started")
+            if columns != None:
+                new_df = pd.DataFrame(data, columns = columns)
+            else:
+                new_df = pd.DataFrame(data)
+            self.log_agent.log(log_file, "Dataframe creation completed")
+            log_file.close()
+            return new_df
+        except Exception as e:
+            self.log_agent.log(log_file, "Error occurred while creating Dataframe "+str(e))
+            log_file.close()
 
-
-
-
-
-             
-
+    def df_train_test_split(self, x, y, split_ratio = 0.2):
+        try:
+            log_file = open(self.preprocessing_log_file_path, 'a+')
+            self.log_agent.log(log_file, "Initiating train_test_split..")
+            x_train, x_test, y_train, y_test = train_test_split(x,y, test_size= split_ratio, random_state= 42)
+            self.log_agent.log(log_file, "train_test_split completed")
+            log_file.close()
+            return x_train, x_test, y_train, y_test 
+        except Exception as e:
+            self.log_agent.log(log_file, "Error occurred while spliting df, "+str(e))
+            log_file.close()

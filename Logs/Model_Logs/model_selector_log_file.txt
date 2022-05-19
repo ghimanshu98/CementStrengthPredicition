@@ -1,0 +1,9 @@
+2022-05-19/23:27:47		Exception occurred while comparing models, log() missing 1 required positional argument: 'message'
+2022-05-19/23:30:02		Exception occurred while comparing models, log() missing 1 required positional argument: 'message'
+2022-05-19/23:31:39		Exception occurred while comparing models, log() missing 1 required positional argument: 'message'
+2022-05-19/23:33:39		Starting RandomForestRegressor model training..
+2022-05-19/23:33:40		RandomForestRegresor model training completed
+2022-05-19/23:33:40		Starting ElasticNetRegresor model training..
+2022-05-19/23:33:40		ElasticNetRegresor model training completed
+2022-05-19/23:33:39		Copmparing Model process started
+2022-05-19/23:33:40		On comparision RandomForestReg performed better with score 0.9750343660629944 while ElasticNetReg got a score of 0.08099838195375653 

@@ -182,3 +182,499 @@
 2022-05-18/23:15:11		Dependent and Independent features separated successfully.
 2022-05-18/23:15:11		Starting standardization of data
 2022-05-18/23:15:11		Scailing completed.
+2022-05-19/12:04:14		DataFrame contains 0 null colums {}
+2022-05-19/12:04:14		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:04:14		Starting Log Conversions for Dataframe
+2022-05-19/12:04:15		Log Conversions for Dataframe completed
+2022-05-19/12:04:15		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:04:15		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:04:15		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:04:15		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:04:15		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:04:15		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:04:15		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:04:16		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:04:16		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:04:15		Starting handling outlier process.
+2022-05-19/12:04:16		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:04:19		Dependent and Independent features separated successfully.
+2022-05-19/12:04:37		Starting standardization of data
+2022-05-19/12:04:37		Scailing completed.
+2022-05-19/12:08:33		DataFrame contains 0 null colums {}
+2022-05-19/12:08:33		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:08:33		Starting Log Conversions for Dataframe
+2022-05-19/12:08:33		Log Conversions for Dataframe completed
+2022-05-19/12:08:33		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:08:33		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:08:33		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:08:33		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:08:33		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:08:33		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:08:33		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:08:33		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:08:33		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:08:33		Starting handling outlier process.
+2022-05-19/12:08:33		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:08:33		Dependent and Independent features separated successfully.
+2022-05-19/12:08:33		Starting standardization of data
+2022-05-19/12:08:33		Scailing completed.
+2022-05-19/12:13:02		DataFrame contains 0 null colums {}
+2022-05-19/12:13:02		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:13:02		Starting Log Conversions for Dataframe
+2022-05-19/12:13:02		Log Conversions for Dataframe completed
+2022-05-19/12:13:02		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:13:02		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:13:02		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:13:02		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:13:02		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:13:02		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:13:02		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:13:02		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:13:02		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:13:02		Starting handling outlier process.
+2022-05-19/12:13:02		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:13:02		Dependent and Independent features separated successfully.
+2022-05-19/12:13:02		Starting standardization of data
+2022-05-19/12:13:02		Scailing completed.
+2022-05-19/12:15:26		DataFrame contains 0 null colums {}
+2022-05-19/12:15:26		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:15:26		Starting Log Conversions for Dataframe
+2022-05-19/12:15:26		Log Conversions for Dataframe completed
+2022-05-19/12:15:26		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:15:26		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:15:26		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:15:26		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:15:26		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:15:26		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:15:26		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:15:26		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:15:26		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:15:26		Starting handling outlier process.
+2022-05-19/12:15:26		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:15:26		Dependent and Independent features separated successfully.
+2022-05-19/12:15:26		Starting standardization of data
+2022-05-19/12:15:26		Scailing completed.
+2022-05-19/12:18:24		DataFrame contains 0 null colums {}
+2022-05-19/12:18:24		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:18:24		Starting Log Conversions for Dataframe
+2022-05-19/12:18:24		Log Conversions for Dataframe completed
+2022-05-19/12:18:24		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:18:24		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:18:24		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:18:24		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:18:24		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:18:24		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:18:24		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:18:24		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:18:24		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:18:24		Starting handling outlier process.
+2022-05-19/12:18:24		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:18:24		Dependent and Independent features separated successfully.
+2022-05-19/12:18:24		Starting standardization of data
+2022-05-19/12:18:24		Scailing completed.
+2022-05-19/12:20:40		DataFrame contains 0 null colums {}
+2022-05-19/12:20:40		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:20:40		Starting Log Conversions for Dataframe
+2022-05-19/12:20:40		Log Conversions for Dataframe completed
+2022-05-19/12:20:40		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:20:40		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:20:40		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:20:40		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:20:40		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:20:40		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:20:40		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:20:40		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:20:40		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:20:40		Starting handling outlier process.
+2022-05-19/12:20:40		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:20:40		Dependent and Independent features separated successfully.
+2022-05-19/12:20:40		Starting standardization of data
+2022-05-19/12:20:40		Scailing completed.
+2022-05-19/12:26:00		DataFrame contains 0 null colums {}
+2022-05-19/12:26:00		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:26:00		Starting Log Conversions for Dataframe
+2022-05-19/12:26:00		Log Conversions for Dataframe completed
+2022-05-19/12:26:00		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:26:00		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:26:00		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:26:00		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:26:00		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:26:00		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:26:00		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:26:00		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:26:00		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:26:00		Starting handling outlier process.
+2022-05-19/12:26:00		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:26:00		Dependent and Independent features separated successfully.
+2022-05-19/12:26:00		Starting standardization of data
+2022-05-19/12:26:00		Scailing completed.
+2022-05-19/12:28:57		DataFrame contains 0 null colums {}
+2022-05-19/12:28:57		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/12:28:57		Starting Log Conversions for Dataframe
+2022-05-19/12:28:57		Log Conversions for Dataframe completed
+2022-05-19/12:28:57		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/12:28:57		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/12:28:57		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/12:28:57		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/12:28:57		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/12:28:57		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/12:28:57		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/12:28:57		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/12:28:57		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/12:28:57		Starting handling outlier process.
+2022-05-19/12:28:57		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/12:28:57		Dependent and Independent features separated successfully.
+2022-05-19/12:28:57		Starting standardization of data
+2022-05-19/12:28:57		Scailing completed.
+2022-05-19/14:54:36		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/22:24:28		DataFrame contains 0 null colums {}
+2022-05-19/22:25:32		DataFrame contains 0 null colums {}
+2022-05-19/22:25:32		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/22:25:32		Starting Log Conversions for Dataframe
+2022-05-19/22:25:32		Log Conversions for Dataframe completed
+2022-05-19/22:25:32		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/22:25:32		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/22:25:32		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/22:25:33		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/22:25:33		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/22:25:33		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/22:25:33		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/22:25:33		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/22:25:33		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/22:25:32		Starting handling outlier process.
+2022-05-19/22:25:33		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/22:25:33		Dependent and Independent features separated successfully.
+2022-05-19/22:25:33		Starting standardization of data
+2022-05-19/22:25:33		Scailing completed.
+2022-05-19/22:36:08		Initiating Reshaping process of Array
+2022-05-19/22:36:08		Reshaping of Array completed
+2022-05-19/22:37:49		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/22:40:24		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/22:41:13		Dataframe Creation started
+2022-05-19/22:41:13		Error occurred while creating Dataframe __init__() got an unexpected keyword argument 'axis'
+2022-05-19/22:42:20		Dataframe Creation started
+2022-05-19/22:42:20		Error occurred while creating Dataframe __init__() got an unexpected keyword argument 'axis'
+2022-05-19/22:43:23		DataFrame contains 0 null colums {}
+2022-05-19/22:43:23		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/22:43:23		Starting Log Conversions for Dataframe
+2022-05-19/22:43:23		Log Conversions for Dataframe completed
+2022-05-19/22:43:23		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/22:43:23		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/22:43:23		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/22:43:23		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/22:43:23		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/22:43:23		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/22:43:23		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/22:43:23		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/22:43:23		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/22:43:23		Starting handling outlier process.
+2022-05-19/22:43:23		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/22:43:23		Dependent and Independent features separated successfully.
+2022-05-19/22:43:23		Starting standardization of data
+2022-05-19/22:43:23		Scailing completed.
+2022-05-19/22:44:02		Initiating Reshaping process of Array
+2022-05-19/22:44:02		Reshaping of Array completed
+2022-05-19/22:44:03		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/22:44:04		Dataframe Creation started
+2022-05-19/22:44:04		Error occurred while creating Dataframe Shape of passed values is (3, 1), indices imply (3, 10)
+2022-05-19/22:45:38		Dataframe Creation started
+2022-05-19/22:45:38		Error occurred while creating Dataframe Shape of passed values is (3, 1), indices imply (3, 10)
+2022-05-19/22:51:56		Concatenation of Array started
+2022-05-19/22:51:56		Error occurred while Concatenating Arrays, concatenate() missing required argument 'seq' (pos 1)
+2022-05-19/22:53:35		Concatenation of Array started
+2022-05-19/22:53:35		Error occurred while Concatenating Arrays, concatenate() missing required argument 'seq' (pos 1)
+2022-05-19/22:54:12		Concatenation of Array started
+2022-05-19/22:54:12		Error occurred while Concatenating Arrays, concatenate() missing required argument 'seq' (pos 1)
+2022-05-19/22:55:33		Concatenation of Array started
+2022-05-19/22:55:50		Error occurred while Concatenating Arrays, concatenate() missing required argument 'seq' (pos 1)
+2022-05-19/22:58:26		DataFrame contains 0 null colums {}
+2022-05-19/22:58:26		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/22:58:26		Starting Log Conversions for Dataframe
+2022-05-19/22:58:26		Log Conversions for Dataframe completed
+2022-05-19/22:58:26		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/22:58:26		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/22:58:26		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/22:58:27		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/22:58:27		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/22:58:27		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/22:58:27		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/22:58:27		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/22:58:27		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/22:58:26		Starting handling outlier process.
+2022-05-19/22:58:27		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/22:58:27		Dependent and Independent features separated successfully.
+2022-05-19/22:58:27		Starting standardization of data
+2022-05-19/22:58:27		Scailing completed.
+2022-05-19/22:59:06		Initiating Reshaping process of Array
+2022-05-19/22:59:06		Reshaping of Array completed
+2022-05-19/22:59:06		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:01:03		Concatenation of Array started
+2022-05-19/23:01:03		Concatenation of Array completed
+2022-05-19/23:02:08		Dataframe Creation started
+2022-05-19/23:02:08		Error occurred while creating Dataframe Shape of passed values is (2, 1), indices imply (2, 10)
+2022-05-19/23:04:07		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:04:52		Concatenation of Array started
+2022-05-19/23:04:52		Concatenation of Array completed
+2022-05-19/23:05:09		Dataframe Creation started
+2022-05-19/23:05:09		Error occurred while creating Dataframe Must pass 2-d input. shape=(1, 973, 10)
+2022-05-19/23:05:58		Concatenation of Array started
+2022-05-19/23:05:58		Concatenation of Array completed
+2022-05-19/23:06:07		Dataframe Creation started
+2022-05-19/23:06:07		Error occurred while creating Dataframe Must pass 2-d input. shape=(1, 973, 10)
+2022-05-19/23:07:32		Dataframe Creation started
+2022-05-19/23:07:32		Dataframe creation completed
+2022-05-19/23:11:07		Concatenation of Array started
+2022-05-19/23:11:07		Concatenation of Array completed
+2022-05-19/23:11:09		Dataframe Creation started
+2022-05-19/23:11:09		Dataframe creation completed
+2022-05-19/23:14:11		Initiating train_test_split..
+2022-05-19/23:14:11		Error occurred while spliting df, not enough values to unpack (expected 4, got 2)
+2022-05-19/23:17:16		DataFrame contains 0 null colums {}
+2022-05-19/23:17:16		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:17:16		Starting Log Conversions for Dataframe
+2022-05-19/23:17:16		Log Conversions for Dataframe completed
+2022-05-19/23:17:16		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:17:16		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:17:16		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:17:16		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:17:16		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:17:16		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:17:16		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:17:16		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:17:16		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:17:16		Starting handling outlier process.
+2022-05-19/23:17:16		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:17:16		Dependent and Independent features separated successfully.
+2022-05-19/23:17:16		Starting standardization of data
+2022-05-19/23:17:16		Scailing completed.
+2022-05-19/23:17:28		Initiating Reshaping process of Array
+2022-05-19/23:17:28		Reshaping of Array completed
+2022-05-19/23:17:28		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:17:28		Concatenation of Array started
+2022-05-19/23:17:28		Concatenation of Array completed
+2022-05-19/23:17:28		Dataframe Creation started
+2022-05-19/23:17:28		Dataframe creation completed
+2022-05-19/23:19:49		Dependent and Independent features separated successfully.
+2022-05-19/23:22:43		DataFrame contains 0 null colums {}
+2022-05-19/23:22:43		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:22:43		Starting Log Conversions for Dataframe
+2022-05-19/23:22:43		Log Conversions for Dataframe completed
+2022-05-19/23:22:43		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:22:43		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:22:43		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:22:43		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:22:43		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:22:43		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:22:43		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:22:43		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:22:43		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:22:43		Starting handling outlier process.
+2022-05-19/23:22:43		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:22:43		Dependent and Independent features separated successfully.
+2022-05-19/23:22:43		Starting standardization of data
+2022-05-19/23:22:43		Scailing completed.
+2022-05-19/23:22:54		Initiating Reshaping process of Array
+2022-05-19/23:22:54		Reshaping of Array completed
+2022-05-19/23:22:54		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:22:54		Concatenation of Array started
+2022-05-19/23:22:54		Concatenation of Array completed
+2022-05-19/23:22:54		Dataframe Creation started
+2022-05-19/23:22:54		Dataframe creation completed
+2022-05-19/23:22:55		Dependent and Independent features separated successfully.
+2022-05-19/23:23:57		DataFrame contains 0 null colums {}
+2022-05-19/23:23:57		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:23:57		Starting Log Conversions for Dataframe
+2022-05-19/23:23:57		Log Conversions for Dataframe completed
+2022-05-19/23:23:57		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:23:57		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:23:57		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:23:57		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:23:57		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:23:57		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:23:57		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:23:57		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:23:57		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:23:57		Starting handling outlier process.
+2022-05-19/23:23:57		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:23:57		Dependent and Independent features separated successfully.
+2022-05-19/23:23:57		Starting standardization of data
+2022-05-19/23:23:57		Scailing completed.
+2022-05-19/23:24:08		Initiating Reshaping process of Array
+2022-05-19/23:24:08		Reshaping of Array completed
+2022-05-19/23:24:08		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:24:08		Concatenation of Array started
+2022-05-19/23:24:08		Concatenation of Array completed
+2022-05-19/23:24:08		Dataframe Creation started
+2022-05-19/23:24:08		Dataframe creation completed
+2022-05-19/23:24:09		Dependent and Independent features separated successfully.
+2022-05-19/23:24:10		Initiating train_test_split..
+2022-05-19/23:24:10		train_test_split completed
+2022-05-19/23:29:47		DataFrame contains 0 null colums {}
+2022-05-19/23:29:47		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:29:47		Starting Log Conversions for Dataframe
+2022-05-19/23:29:47		Log Conversions for Dataframe completed
+2022-05-19/23:29:47		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:29:47		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:29:47		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:29:47		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:29:47		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:29:47		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:29:47		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:29:47		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:29:47		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:29:47		Starting handling outlier process.
+2022-05-19/23:29:47		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:29:47		Dependent and Independent features separated successfully.
+2022-05-19/23:29:47		Starting standardization of data
+2022-05-19/23:29:47		Scailing completed.
+2022-05-19/23:29:59		Initiating Reshaping process of Array
+2022-05-19/23:29:59		Reshaping of Array completed
+2022-05-19/23:29:59		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:29:59		Concatenation of Array started
+2022-05-19/23:29:59		Concatenation of Array completed
+2022-05-19/23:29:59		Dataframe Creation started
+2022-05-19/23:29:59		Dataframe creation completed
+2022-05-19/23:30:00		Dependent and Independent features separated successfully.
+2022-05-19/23:30:01		Initiating train_test_split..
+2022-05-19/23:30:01		train_test_split completed
+2022-05-19/23:31:16		DataFrame contains 0 null colums {}
+2022-05-19/23:31:16		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:31:16		Starting Log Conversions for Dataframe
+2022-05-19/23:31:16		Log Conversions for Dataframe completed
+2022-05-19/23:31:16		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:31:16		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:31:16		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:31:16		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:31:16		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:31:16		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:31:16		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:31:16		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:31:16		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:31:16		Starting handling outlier process.
+2022-05-19/23:31:16		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:31:16		Dependent and Independent features separated successfully.
+2022-05-19/23:31:16		Starting standardization of data
+2022-05-19/23:31:16		Scailing completed.
+2022-05-19/23:31:37		Initiating Reshaping process of Array
+2022-05-19/23:31:37		Reshaping of Array completed
+2022-05-19/23:31:37		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:31:37		Concatenation of Array started
+2022-05-19/23:31:37		Concatenation of Array completed
+2022-05-19/23:31:37		Dataframe Creation started
+2022-05-19/23:31:37		Dataframe creation completed
+2022-05-19/23:31:38		Dependent and Independent features separated successfully.
+2022-05-19/23:31:38		Initiating train_test_split..
+2022-05-19/23:31:38		train_test_split completed
+2022-05-19/23:33:25		DataFrame contains 0 null colums {}
+2022-05-19/23:33:25		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day',
+       'Concrete_compressive _strength'],
+      dtype='object')
+2022-05-19/23:33:25		Starting Log Conversions for Dataframe
+2022-05-19/23:33:25		Log Conversions for Dataframe completed
+2022-05-19/23:33:25		Lower Fence : 4.370384870909427 and Upper Fence : 6.755027034999729 for feature Cement _component_1
+2022-05-19/23:33:25		Lower Fence : -7.454198754005605 and Upper Fence : 12.423664590009341 for feature Blast Furnace Slag _component_2
+2022-05-19/23:33:25		Lower Fence : -7.172461993655805 and Upper Fence : 11.954103322759675 for feature Fly Ash _component_3
+2022-05-19/23:33:25		Lower Fence : 4.88442770963367 and Upper Fence : 5.489647676467616 for feature Water_component_4
+2022-05-19/23:33:25		Lower Fence : -3.6238706674515733 and Upper Fence : 6.0397844457526215 for feature Superplasticizer_component_5
+2022-05-19/23:33:25		Lower Fence : 6.689459469093226 and Upper Fence : 7.086648087104209 for feature Coarse Aggregate_component_6
+2022-05-19/23:33:25		Lower Fence : 6.409279388944975 and Upper Fence : 6.8990457847685045 for feature Fine Aggregate_component_7
+2022-05-19/23:33:25		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-19/23:33:25		Lower Fence : -11.822499999999998 and Upper Fence : 81.5175 for feature Concrete_compressive _strength
+2022-05-19/23:33:25		Starting handling outlier process.
+2022-05-19/23:33:25		Handled Ouliers , Rows containing outlier values dropped are 57
+2022-05-19/23:33:25		Dependent and Independent features separated successfully.
+2022-05-19/23:33:25		Starting standardization of data
+2022-05-19/23:33:25		Scailing completed.
+2022-05-19/23:33:37		Initiating Reshaping process of Array
+2022-05-19/23:33:37		Reshaping of Array completed
+2022-05-19/23:33:37		Col Names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully froms schema File_Schema_Validation/files_schema/schema_training.json
+2022-05-19/23:33:37		Concatenation of Array started
+2022-05-19/23:33:37		Concatenation of Array completed
+2022-05-19/23:33:37		Dataframe Creation started
+2022-05-19/23:33:37		Dataframe creation completed
+2022-05-19/23:33:38		Dependent and Independent features separated successfully.
+2022-05-19/23:33:39		Initiating train_test_split..
+2022-05-19/23:33:39		train_test_split completed
