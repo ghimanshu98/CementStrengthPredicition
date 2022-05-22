@@ -32,15 +32,21 @@ class ModelSelector:
             if comp_result[0] == "RandomForestReg":
                 self.log_agent.log(log_file, "RandomForestReg performed better for cluster - {}, therefore choosing and tuning it".format(cluster_name))
                 params = tuner.find_best_param(x_train, y_train, comp_result[0])
-                self.randomForestReg(x_train, y_train, model_name=cluster_name, save_model= True, params= params)
-                self.log_agent.log(log_file, "Model Selection Process competed.")
-                log_file.close()
+                if params !=None:
+                    self.randomForestReg(x_train, y_train, model_name=cluster_name, save_model= True, params= params)
+                    self.log_agent.log(log_file, "Model Selection Process competed.")
+                    log_file.close()
+                else:
+                    raise Exception("self.randomForestReg() returned None")
             elif comp_result[0] == "ElasticNetReg":
                 self.log_agent.log(log_file, "ElasticNetReg performed better for cluster - {}, therefore choosing and tuning it".format(cluster_name))
                 params = tuner.find_best_param(x_train, y_train, comp_result[0])
-                self.elasticNetReg(x_train, y_train, model_name=cluster_name, save_model=True, params= params)
-                self.log_agent.log(log_file, "Model Selection Process competed.")
-                log_file.close()
+                if params !=None:
+                    self.elasticNetReg(x_train, y_train, model_name=cluster_name, save_model=True, params= params)
+                    self.log_agent.log(log_file, "Model Selection Process competed.")
+                    log_file.close()
+                else:
+                    raise Exception("self.elasticNetReg() returned None")
         except Exception as e:
             self.log_agent.log(log_file,"Error occurred while selecting model for clsuter {}, ".format(cluster_name)+str(e))
             log_file.close()
@@ -73,7 +79,15 @@ class ModelSelector:
             if params == None:
                 forest_reg = RandomForestRegressor(n_jobs=3, random_state= 42)
             else:
-                pass  # to be completed
+                # extract params (params = {
+                #     "n_estimators" : [3,5,25,50,75,100],
+                #     "max_depth" : [2,5,10, None], 
+                #     "min_samples_split" : [2,5,10,20]
+                # })
+                n_estimators = params['n_estimators']
+                max_depth = params['max_depth']
+                min_samples_split = params['min_samples_split']
+                forest_reg = RandomForestRegressor(n_estimators=n_estimators, max_depth= max_depth, min_samples_split= min_samples_split, n_jobs=3, random_state= 42)
 
             forest_reg.fit(x_train, y_train)
             forest_score = forest_reg.score(x_train, y_train)
@@ -98,7 +112,14 @@ class ModelSelector:
             if params == None:
                 net_reg = ElasticNet(random_state= 42)
             else:
-                pass # to be completed
+                # extracting the params
+                # params = {
+                #     "alpha" : [0.2, 0.5 , 1 , 1.5],
+                #     "l1_ratio" : [0.2,0.4,0.5,0.6,0.8]
+                # }
+                alpha = params['alpha']
+                l1_ratio = params['l1_ratio']
+                net_reg = ElasticNet(alpha =alpha, l1_ratio =l1_ratio, random_state= 42)
 
             net_reg.fit(x_train, y_train)
             elastic_score = net_reg.score(x_train, y_train)

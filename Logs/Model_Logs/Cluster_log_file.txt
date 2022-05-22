@@ -86,3 +86,147 @@
 2022-05-19/23:33:37		Optimum number of clusters for data X is 5
 2022-05-19/23:33:26		Initiaing KMeans..
 2022-05-19/23:33:37		Kmans completed, Model Saved.
+2022-05-20/11:04:32		Initiating elbow method
+2022-05-20/11:04:50		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:04:32		Initiating Knee Method
+2022-05-20/11:04:50		Optimum number of clusters for data X is 5
+2022-05-20/11:04:32		Initiaing KMeans..
+2022-05-20/11:04:51		Kmans completed, Model Saved.
+2022-05-20/11:09:39		Initiating elbow method
+2022-05-20/11:10:19		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:09:39		Initiating Knee Method
+2022-05-20/11:10:19		Optimum number of clusters for data X is 9
+2022-05-20/11:09:39		Initiaing KMeans..
+2022-05-20/11:10:20		Kmans completed, Model Saved.
+2022-05-20/11:22:55		Initiating elbow method
+2022-05-20/11:23:27		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:22:55		Initiating Knee Method
+2022-05-20/11:23:27		Optimum number of clusters for data X is 9
+2022-05-20/11:22:55		Initiaing KMeans..
+2022-05-20/11:23:28		Kmans completed, Model Saved.
+2022-05-20/11:30:10		Initiating elbow method
+2022-05-20/11:30:43		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:30:10		Initiating Knee Method
+2022-05-20/11:30:43		Optimum number of clusters for data X is 9
+2022-05-20/11:30:10		Initiaing KMeans..
+2022-05-20/11:30:44		Kmans completed, Model Saved.
+2022-05-20/11:33:57		Initiating elbow method
+2022-05-20/11:34:37		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:33:57		Initiating Knee Method
+2022-05-20/11:34:37		Optimum number of clusters for data X is 9
+2022-05-20/11:33:57		Initiaing KMeans..
+2022-05-20/11:34:38		Kmans completed, Model Saved.
+2022-05-20/11:57:02		Initiating elbow method
+2022-05-20/11:57:45		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/11:57:02		Initiating Knee Method
+2022-05-20/11:57:45		Optimum number of clusters for data X is 9
+2022-05-20/11:57:02		Initiaing KMeans..
+2022-05-20/11:57:48		Kmans completed, Model Saved.
+2022-05-20/12:01:56		Initiating elbow method
+2022-05-20/12:02:26		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/12:01:56		Initiating Knee Method
+2022-05-20/12:02:26		Optimum number of clusters for data X is 9
+2022-05-20/12:01:56		Initiaing KMeans..
+2022-05-20/12:02:26		Kmans completed, Model Saved.
+2022-05-20/14:12:11		Initiating elbow method
+2022-05-20/14:12:39		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/14:12:11		Initiating Knee Method
+2022-05-20/14:12:39		Optimum number of clusters for data X is 9
+2022-05-20/14:12:11		Initiaing KMeans..
+2022-05-20/14:12:40		Kmans completed, Model Saved.
+2022-05-20/15:00:55		Initiating elbow method
+2022-05-20/15:01:21		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/15:00:55		Initiating Knee Method
+2022-05-20/15:01:21		Optimum number of clusters for data X is 9
+2022-05-20/15:00:55		Initiaing KMeans..
+2022-05-20/15:01:21		Kmans completed, Model Saved.
+2022-05-20/15:02:04		Initiating elbow method
+2022-05-20/15:02:24		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/15:02:04		Initiating Knee Method
+2022-05-20/15:02:24		Optimum number of clusters for data X is 9
+2022-05-20/15:02:04		Initiaing KMeans..
+2022-05-20/15:02:24		Kmans completed, Model Saved.
+2022-05-20/15:03:08		Initiating elbow method
+2022-05-20/15:03:29		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-20/15:03:08		Initiating Knee Method
+2022-05-20/15:03:29		Optimum number of clusters for data X is 9
+2022-05-20/15:03:08		Initiaing KMeans..
+2022-05-20/15:03:30		Kmans completed, Model Saved.
+2022-05-22/12:23:53		Initiating elbow method
+2022-05-22/12:24:45		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/12:23:53		Initiating Knee Method
+2022-05-22/12:24:45		Optimum number of clusters for data X is 9
+2022-05-22/12:23:53		Initiaing KMeans..
+2022-05-22/12:24:46		Kmans completed, Model Saved.
+2022-05-22/12:43:31		Initiating elbow method
+2022-05-22/12:44:11		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/12:43:31		Initiating Knee Method
+2022-05-22/12:44:11		Optimum number of clusters for data X is 9
+2022-05-22/12:43:31		Initiaing KMeans..
+2022-05-22/12:44:15		Kmans completed, Model Saved.
+2022-05-22/12:53:52		Initiating elbow method
+2022-05-22/12:55:06		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/12:53:52		Initiating Knee Method
+2022-05-22/12:55:06		Optimum number of clusters for data X is 9
+2022-05-22/12:53:52		Initiaing KMeans..
+2022-05-22/12:55:08		Kmans completed, Model Saved.
+2022-05-22/12:58:56		Initiating elbow method
+2022-05-22/12:59:17		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/12:58:56		Initiating Knee Method
+2022-05-22/12:59:17		Optimum number of clusters for data X is 9
+2022-05-22/12:58:56		Initiaing KMeans..
+2022-05-22/12:59:18		Kmans completed, Model Saved.
+2022-05-22/12:59:59		Initiating elbow method
+2022-05-22/13:00:25		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/12:59:59		Initiating Knee Method
+2022-05-22/13:00:25		Optimum number of clusters for data X is 9
+2022-05-22/12:59:59		Initiaing KMeans..
+2022-05-22/13:00:26		Kmans completed, Model Saved.
+2022-05-22/13:02:29		Initiating elbow method
+2022-05-22/13:02:56		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:02:29		Initiating Knee Method
+2022-05-22/13:02:56		Optimum number of clusters for data X is 9
+2022-05-22/13:02:29		Initiaing KMeans..
+2022-05-22/13:02:56		Kmans completed, Model Saved.
+2022-05-22/13:06:37		Initiating elbow method
+2022-05-22/13:07:16		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:06:37		Initiating Knee Method
+2022-05-22/13:07:16		Optimum number of clusters for data X is 9
+2022-05-22/13:06:37		Initiaing KMeans..
+2022-05-22/13:07:17		Kmans completed, Model Saved.
+2022-05-22/13:08:02		Initiating elbow method
+2022-05-22/13:08:46		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:08:02		Initiating Knee Method
+2022-05-22/13:08:46		Optimum number of clusters for data X is 9
+2022-05-22/13:08:02		Initiaing KMeans..
+2022-05-22/13:08:46		Kmans completed, Model Saved.
+2022-05-22/13:10:36		Initiating elbow method
+2022-05-22/13:10:55		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:10:36		Initiating Knee Method
+2022-05-22/13:10:55		Optimum number of clusters for data X is 9
+2022-05-22/13:10:36		Initiaing KMeans..
+2022-05-22/13:10:55		Kmans completed, Model Saved.
+2022-05-22/13:11:48		Initiating elbow method
+2022-05-22/13:12:13		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:11:48		Initiating Knee Method
+2022-05-22/13:12:13		Optimum number of clusters for data X is 9
+2022-05-22/13:11:48		Initiaing KMeans..
+2022-05-22/13:12:13		Kmans completed, Model Saved.
+2022-05-22/13:14:52		Initiating elbow method
+2022-05-22/13:15:19		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:14:52		Initiating Knee Method
+2022-05-22/13:15:19		Optimum number of clusters for data X is 9
+2022-05-22/13:14:52		Initiaing KMeans..
+2022-05-22/13:15:19		Kmans completed, Model Saved.
+2022-05-22/13:18:10		Initiating elbow method
+2022-05-22/13:18:55		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:18:10		Initiating Knee Method
+2022-05-22/13:18:55		Optimum number of clusters for data X is 9
+2022-05-22/13:18:10		Initiaing KMeans..
+2022-05-22/13:18:55		Kmans completed, Model Saved.
+2022-05-22/13:19:07		Initiating elbow method
+2022-05-22/13:20:01		Elbow method finished, Elbow Plot stored at Model/Clustering/Elbow_Method.png
+2022-05-22/13:19:07		Initiating Knee Method
+2022-05-22/13:20:01		Optimum number of clusters for data X is 9
+2022-05-22/13:19:07		Initiaing KMeans..
+2022-05-22/13:20:03		Kmans completed, Model Saved.

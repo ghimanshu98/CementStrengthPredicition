@@ -1,27 +1,58 @@
-from File_Schema_Validation.Training_File_Schema_Validate_utils.training_file_schema_validate_utils import Train_file_schema_validate
+from Model.Data_Loader.Training.training_data_loader import Training_data_loader
+train_data_loader_obj = Training_data_loader()
+df = train_data_loader_obj.getTrainingDataFrame()
+# df.head(5)
+from Model.Data_Pre_Processing.preprocessing import DataPreProcessing
+preprocessor = DataPreProcessing()
+# check null
 
-from File_Schema_Validation.Prediction_File_Schema_Validation_utils.prediction_file_schema_validate_utils import Predict_file_schema_validate
+preprocessor.containsNull(df)
+preprocessor.getDfColNames(df)
+df = preprocessor.convertToLogNormalForm(df, ['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'])
 
-from Data_Transforamation_For_DB.data_transformation_for_db import DataTransformation
+# df.head(5)
+df = preprocessor.handleOutliers(df)
 
-temp = Train_file_schema_validate(train_batch_file_path= 'Training_Batch_Files')
+# df.head(5)
+X, Y = preprocessor.separateDependentIndependentFeatures(df, ['Concrete_compressive _strength'])
+# Y
+X_scaled = preprocessor.standardScaler(X)
+# X_scaled
+# len(X_scaled)
 
-reg = temp.regex_pattern()
-
-temp.validate_file_name(reg, 8,6)
-temp.validate_no_cols(9)
-temp.validate_missing_values()
 
 
-# temp2 = Predict_file_schema_validate(predict_batch_file_path= "Prediction_Batch_files")
+# Clustering
 
-# temp2.validate_file_name(reg, 8,6)
-# temp2.validate_no_cols(8)
-# temp2.validate_missing_values()
+from Model.Clustering.cluster import Cluster
 
-# # Literal['[\'cement_strength\']+[\'\\_\'\']+[\\d_]+[\\d]+\\.csv']
-# # Literal['[\'cement_strength\']+[\'\\_\'\']+[\\d_]+[\\d]+\\.csv']
+cluster_obj = Cluster()
+pred = cluster_obj.kmeans(X_scaled)
+# pred
+reshaped_cluster_y = preprocessor.reshape_array(data = pred, shape = (len(pred), 1))
+# reshaped_cluster_y
+column_names = preprocessor.getColsNames('File_Schema_Validation/files_schema/schema_training.json')
+column_names.append('Cluster')
+new_array = preprocessor.concatenate_array([X_scaled, Y, reshaped_cluster_y], axis = 1)
+df = preprocessor.make_df(new_array,columns= column_names)
+# df
 
-trans = DataTransformation()
 
-trans.transform_data_for_db('Validated_Training_Batch_Files/GoodFileSchemaDataFolder')
+
+X, Y = preprocessor.separateDependentIndependentFeatures(df, "Concrete_compressive _strength")
+
+# Cluster division
+
+di = tuple(df['Cluster'].unique())
+dic = preprocessor.divideDfBasedOnCluster(df, di)
+
+# # Model Selection
+
+# from Model.Model_Selection.model_selector import ModelSelector
+
+# model_selector_obj = ModelSelector()
+
+# result = model_selector_obj.selectModel(X.drop(['Cluster'], axis = 1), Y, "whole")

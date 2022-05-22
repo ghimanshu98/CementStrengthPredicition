@@ -70,3 +70,53 @@
 2022-05-19/23:31:16		DataFrame obtained successfully.
 2022-05-19/23:33:23		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
 2022-05-19/23:33:23		DataFrame obtained successfully.
+2022-05-20/11:04:23		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:04:23		DataFrame obtained successfully.
+2022-05-20/11:09:39		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:09:39		DataFrame obtained successfully.
+2022-05-20/11:22:52		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:22:52		DataFrame obtained successfully.
+2022-05-20/11:30:08		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:30:08		DataFrame obtained successfully.
+2022-05-20/11:33:56		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:33:56		DataFrame obtained successfully.
+2022-05-20/11:56:59		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/11:56:59		DataFrame obtained successfully.
+2022-05-20/12:01:16		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/12:01:16		DataFrame obtained successfully.
+2022-05-20/14:11:21		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/14:11:21		DataFrame obtained successfully.
+2022-05-20/15:00:20		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/15:00:20		DataFrame obtained successfully.
+2022-05-20/15:02:01		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/15:02:01		DataFrame obtained successfully.
+2022-05-20/15:03:07		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-20/15:03:07		DataFrame obtained successfully.
+2022-05-22/12:22:33		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:22:34		DataFrame obtained successfully.
+2022-05-22/12:23:45		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:23:45		DataFrame obtained successfully.
+2022-05-22/12:43:28		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:43:28		DataFrame obtained successfully.
+2022-05-22/12:53:45		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:53:45		DataFrame obtained successfully.
+2022-05-22/12:58:50		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:58:50		DataFrame obtained successfully.
+2022-05-22/12:59:38		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/12:59:38		DataFrame obtained successfully.
+2022-05-22/13:02:03		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:02:03		DataFrame obtained successfully.
+2022-05-22/13:06:34		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:06:34		DataFrame obtained successfully.
+2022-05-22/13:08:00		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:08:00		DataFrame obtained successfully.
+2022-05-22/13:10:34		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:10:34		DataFrame obtained successfully.
+2022-05-22/13:11:23		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:11:23		DataFrame obtained successfully.
+2022-05-22/13:14:30		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:14:30		DataFrame obtained successfully.
+2022-05-22/13:18:07		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:18:07		DataFrame obtained successfully.
+2022-05-22/13:19:04		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
+2022-05-22/13:19:04		DataFrame obtained successfully.

@@ -212,7 +212,6 @@ class DataPreProcessing:
             self.log_agent.log(log_file, "Error occurred while Concatenating Arrays, "+str(e))
             log_file.close()
 
-
     def make_df(self, data, columns = None, axis = 1):
         try:
             log_file = open(self.preprocessing_log_file_path, 'a+')
@@ -239,3 +238,21 @@ class DataPreProcessing:
         except Exception as e:
             self.log_agent.log(log_file, "Error occurred while spliting df, "+str(e))
             log_file.close()
+            
+    def divideDfBasedOnCluster(self, df, cluster_list):
+        try:
+            log_file = open(self.preprocessing_log_file_path,'a+')
+            df_dict = {}
+            for cluster_num in cluster_list:
+                cluster_name = 'df_cluster_'+str(cluster_num)
+                df_dict[cluster_name] = df.loc[df['Cluster'] == cluster_num]
+                df_dict[cluster_name] = self.removCols(df_dict[cluster_name], 'Cluster')
+                self.log_agent.log(log_file, "Cluster : {} created for {} from df and stored in df_dict.".format(cluster_name, cluster_num))
+            log_file.close()
+            return df_dict
+        except Exception as e:
+            self.log_agent.log(log_file, "Exception occurred while dividing df based on cluster"+str(e))
+            log_file.close()
+            return None
+        
+    
