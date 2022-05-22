@@ -1,186 +1,22 @@
-2022-05-18/23:10:03		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-18/23:10:03		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
-2022-05-18/23:10:11		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-18/23:10:11		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
-2022-05-18/23:11:01		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-18/23:11:01		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
-2022-05-18/23:14:16		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-18/23:14:16		Exception occurred during model saving. 'SaveModel' object has no attribute 'model_save_model'
-2022-05-18/23:15:11		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-18/23:15:11		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:04:37		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:04:37		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:08:33		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:08:33		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:13:02		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:13:02		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:15:26		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:15:26		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:18:24		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:18:24		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:20:40		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:20:40		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:26:00		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:26:00		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:28:57		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/12:28:57		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/12:31:52		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/12:31:52		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/22:25:33		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/22:25:33		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/22:26:42		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/22:26:42		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/22:43:23		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/22:43:23		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/22:44:02		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/22:44:02		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/22:57:11		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/22:57:11		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/22:58:27		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/22:58:27		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/22:59:06		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/22:59:06		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:17:16		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:17:16		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:17:28		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:17:28		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:22:43		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:22:43		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:22:54		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:22:54		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:23:57		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:23:57		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:24:08		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:24:08		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:29:47		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:29:47		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:29:59		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:29:59		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:31:16		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:31:16		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:31:37		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:31:37		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-19/23:33:25		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-19/23:33:25		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-19/23:33:37		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-19/23:33:37		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:04:29		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:04:29		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:04:51		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:04:51		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:09:39		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:09:39		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:10:20		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:10:20		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:14:55		Initiating process to save model : RandomForestReg_whole to path Model/Saved_models
-2022-05-20/11:14:55		Model : RandomForestReg_whole.sav saved to path Model/Saved_models successfully
-2022-05-20/11:22:54		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:22:54		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:23:28		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:23:28		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:30:09		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:30:09		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:30:44		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:30:44		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:33:57		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:33:57		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:34:38		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:34:38		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/11:57:01		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/11:57:01		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/11:57:48		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/11:57:48		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/12:01:47		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/12:01:47		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/12:02:26		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/12:02:26		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/14:12:00		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/14:12:00		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/14:12:40		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/14:12:40		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/15:00:47		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/15:00:47		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/15:01:21		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/15:01:21		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/15:02:03		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/15:02:03		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/15:02:24		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/15:02:24		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/15:03:08		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-20/15:03:08		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-20/15:03:30		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-20/15:03:30		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-20/15:04:11		Initiating process to save model : RandomForestReg_whole to path Model/Saved_models
-2022-05-20/15:04:11		Model : RandomForestReg_whole.sav saved to path Model/Saved_models successfully
-2022-05-22/12:22:34		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:22:34		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/12:23:51		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:23:51		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/12:24:46		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/12:24:46		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/12:43:31		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:43:31		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/12:44:15		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/12:44:15		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/12:53:49		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:53:49		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/12:55:08		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/12:55:08		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/12:58:54		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:58:54		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/12:59:18		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/12:59:18		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/12:59:54		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/12:59:54		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:00:26		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:00:26		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:02:24		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:02:24		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:02:56		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:02:56		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:06:36		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:06:36		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:07:17		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:07:17		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:08:01		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:08:01		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:08:46		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:08:46		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:10:36		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:10:36		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:10:55		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:10:55		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:11:43		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:11:43		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:12:13		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:12:13		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:14:47		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:14:47		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:15:19		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:15:19		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:18:09		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:18:09		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:18:55		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:18:55		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:19:06		Initiating process to save model : scaler_model to path Model/Saved_models
-2022-05-22/13:19:06		Model : scaler_model.sav saved to path Model/Saved_models successfully
-2022-05-22/13:20:03		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
-2022-05-22/13:20:03		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
-2022-05-22/13:35:54		Initiating process to save model : RandomForestReg_df_cluster_1.0 to path Model/Saved_models
-2022-05-22/13:35:54		Model : RandomForestReg_df_cluster_1.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:36:57		Initiating process to save model : RandomForestReg_df_cluster_3.0 to path Model/Saved_models
-2022-05-22/13:36:57		Model : RandomForestReg_df_cluster_3.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:37:53		Initiating process to save model : RandomForestReg_df_cluster_6.0 to path Model/Saved_models
-2022-05-22/13:37:53		Model : RandomForestReg_df_cluster_6.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:39:03		Initiating process to save model : RandomForestReg_df_cluster_5.0 to path Model/Saved_models
-2022-05-22/13:39:03		Model : RandomForestReg_df_cluster_5.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:40:19		Initiating process to save model : RandomForestReg_df_cluster_8.0 to path Model/Saved_models
-2022-05-22/13:40:19		Model : RandomForestReg_df_cluster_8.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:41:21		Initiating process to save model : RandomForestReg_df_cluster_4.0 to path Model/Saved_models
-2022-05-22/13:41:21		Model : RandomForestReg_df_cluster_4.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:41:56		Initiating process to save model : RandomForestReg_df_cluster_0.0 to path Model/Saved_models
-2022-05-22/13:41:56		Model : RandomForestReg_df_cluster_0.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:42:57		Initiating process to save model : RandomForestReg_df_cluster_2.0 to path Model/Saved_models
-2022-05-22/13:42:57		Model : RandomForestReg_df_cluster_2.0.sav saved to path Model/Saved_models successfully
-2022-05-22/13:44:17		Initiating process to save model : RandomForestReg_df_cluster_7.0 to path Model/Saved_models
-2022-05-22/13:44:17		Model : RandomForestReg_df_cluster_7.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:47:22		Initiating process to save model : scaler_model to path Model/Saved_models
+2022-05-22/21:47:22		Model : scaler_model.sav saved to path Model/Saved_models successfully
+2022-05-22/21:47:52		Initiating process to save model : Kmeans_cluster to path Model/Saved_models
+2022-05-22/21:47:52		Model : Kmeans_cluster.sav saved to path Model/Saved_models successfully
+2022-05-22/21:48:27		Initiating process to save model : RandomForestReg_df_cluster_1.0 to path Model/Saved_models
+2022-05-22/21:48:27		Model : RandomForestReg_df_cluster_1.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:49:02		Initiating process to save model : RandomForestReg_df_cluster_3.0 to path Model/Saved_models
+2022-05-22/21:49:02		Model : RandomForestReg_df_cluster_3.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:49:42		Initiating process to save model : RandomForestReg_df_cluster_6.0 to path Model/Saved_models
+2022-05-22/21:49:42		Model : RandomForestReg_df_cluster_6.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:50:16		Initiating process to save model : RandomForestReg_df_cluster_5.0 to path Model/Saved_models
+2022-05-22/21:50:16		Model : RandomForestReg_df_cluster_5.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:50:50		Initiating process to save model : RandomForestReg_df_cluster_8.0 to path Model/Saved_models
+2022-05-22/21:50:50		Model : RandomForestReg_df_cluster_8.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:51:31		Initiating process to save model : RandomForestReg_df_cluster_4.0 to path Model/Saved_models
+2022-05-22/21:51:31		Model : RandomForestReg_df_cluster_4.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:52:12		Initiating process to save model : RandomForestReg_df_cluster_0.0 to path Model/Saved_models
+2022-05-22/21:52:12		Model : RandomForestReg_df_cluster_0.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:52:45		Initiating process to save model : RandomForestReg_df_cluster_2.0 to path Model/Saved_models
+2022-05-22/21:52:45		Model : RandomForestReg_df_cluster_2.0.sav saved to path Model/Saved_models successfully
+2022-05-22/21:53:19		Initiating process to save model : RandomForestReg_df_cluster_7.0 to path Model/Saved_models
+2022-05-22/21:53:19		Model : RandomForestReg_df_cluster_7.0.sav saved to path Model/Saved_models successfully

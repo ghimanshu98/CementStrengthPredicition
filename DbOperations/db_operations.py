@@ -3,13 +3,26 @@ import os
 from Logger.logger import Logger
 import csv
 import pandas as pd
+import json
 
 class DbOperations:
-    def __init__(self, dbOps_log_file_path, db_path, tableName):
+    def __init__(self, db_path, tableName, training = True):
+        """
+        :description: Creates and object of DBOperations class
+        :param db_path: Takes in the database name(full path)
+        :param tableName: Takes the tableName
+        :param training: Boolean if True, writes to training logs else to prediction logs
+        """
         
         # logger object and log file location
         self.log_agent = Logger()
-        self.dbOps_log_file_path = dbOps_log_file_path
+
+        if training:
+            self.dbOps_log_file_path = 'Logs/training_db_ops_log_file.txt'
+            self.schema_val_file = 'File_Schema_Validation/files_schema/schema_training.json'
+        else:
+            self.dbOps_log_file_path = 'Logs/prediction_db_ops_log_file.txt'
+            self.schema_val_file = 'File_Schema_Validation/files_schema/schema_prediction.json'
         
         # database
         self.database_path = db_path
@@ -24,6 +37,9 @@ class DbOperations:
         self.table_name = tableName
 
     def setUpConnection(self):
+        """
+        :description: Setups Db connection, used internally -  not to be used alone
+        """
         try:
             conn = sqlite3.connect(self.database_path)
 
@@ -44,10 +60,27 @@ class DbOperations:
                 self.log_agent.log(log_file, message)
                 log_file.close()
 
+    def getColumnDetails(self):
+        """
+        :description: Used for getting the column names and details - used internally - not to be used alone
+        :returns: Dictionary of columns with type
+        """
+        try:
+            log_file = open(self.dbOps_log_file_path, 'a+')
+            with open(self.schema_val_file, 'r') as f:
+                dic = json.load(f)
+                column_names = dic["Col_Name"]
+            self.log_agent.log(log_file, "Column Details fetched successfully from schema {} ".format(self.schema_val_file))
+            log_file.close()
+            return column_names
+        except Exception as e:
+            self.log_agent.log(log_file, "Exception occurred while geting Column details for schema file {} ".format(self.schema_val_file))
+            log_file.close()
+
     def createTableInDb(self, column_names):
         """
         :Description: Used to create table in passed database.
-        :param columns: a dictionary of columns
+        :param column_name: a dictionary of columns
         """
         conn = self.setUpConnection()
         if conn != None:
@@ -97,6 +130,9 @@ class DbOperations:
                 log_file.close()                
 
     def insertFilesInDB(self):
+        """
+        :description: Used to Insert records from csv file to databse 
+        """
         try:
             log_file = open(self.dbOps_log_file_path, 'a+')
             self.log_agent.log(log_file, "Strating csv files insertion to db.")
@@ -134,9 +170,10 @@ class DbOperations:
             self.log_agent.log(log_file, message)
             log_file.close()
 
-
-
     def getRowsFromDb(self):
+        """
+        :description: Used to fetch rows from Db and create csv file in directory,Final_Training_CSV_File
+        """
         try:
             log_file = open(self.dbOps_log_file_path, 'a+')
             conn = self.setUpConnection()
@@ -169,10 +206,12 @@ class DbOperations:
             message = "Error occurred while fetching records from table. "+str(e)
             self.log_agent.log(log_file, message)
             log_file.close()
-
-
-                
+     
     def getTableFields(self):
+        """
+        :description: Used to retrieve column  names from db table
+        :return: Table a list of column names. 
+        """
         try:
             log_file = open(self.dbOps_log_file_path, 'a+')
             conn = self.setUpConnection()

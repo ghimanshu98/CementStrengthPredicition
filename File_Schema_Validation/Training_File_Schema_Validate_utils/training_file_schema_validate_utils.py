@@ -6,6 +6,7 @@ import shutil
 import pandas as pd
 
 class Train_file_schema_validate:
+    
     """
     Class is used to cross verify schema of passed training files with the expected schema for training files.
     If any of the files are not matched - Bad Files, then the file will be sent to rejected folder where it will be archived
@@ -22,6 +23,10 @@ class Train_file_schema_validate:
         self.train_file_schema_log_filepath = 'Logs/train_file_schema_validate.txt'
 
     def getValuesFromSchema(self):
+        """
+        :Description: This method returns the meta information about batch files from schema files.
+        :return: accepted_pattern, accepted_len_date, accepted_len_time, accepted_no_cols
+        """
         try:
             # Open json file and convert the data in it into dicitionary
             with open(self.train_schema_path, 'r') as file:
@@ -54,10 +59,16 @@ class Train_file_schema_validate:
         return  accepted_pattern, accepted_len_date,accepted_len_time,accepted_no_cols
 
     def regex_pattern(self):
+        """
+        :description: Returns the regex pattern
+        :return: RegEx pattern for file name"""
         reg = "['cement_strength']+['\_']+['\d']+['\_']+['\d']+\.csv"   # d- signifies numbers
         return reg
 
     def createGoodFileSchemaDataDirectory(self):
+        """
+        :description: Internal Function for creating GoodFileSchemaDataDirectory - not to be used alone.
+        """
         dir_path = 'Validated_Training_Batch_Files/GoodFileSchemaDataFolder'
         try:
             log_file = open(self.train_file_schema_log_filepath, 'a+')
@@ -80,6 +91,9 @@ class Train_file_schema_validate:
             log_file.close()
 
     def createBadFileSchemaDataDirectory(self):
+        """
+        :description: Internal Function for creating BadFileSchemaDataDirectory - not to be used alone.
+        """
         dir_path = 'Validated_Training_Batch_Files/BadFileSchemaDataFolder'
         try:
             log_file = open(self.train_file_schema_log_filepath, 'a+')
@@ -102,6 +116,9 @@ class Train_file_schema_validate:
             log_file.close()
 
     def deleteGooDBadFileSchemaDataFolders(self):
+        """
+        :description: Internal Function for deleting Good_Bad_FileSchemaDataDirectory - not to be used alone.
+        """
         try:
             log_file = open(self.train_file_schema_log_filepath,'a+')
 
@@ -124,6 +141,12 @@ class Train_file_schema_validate:
             self.log_agent.log(log_file, 'Error occurred while deleting folders '+ str(e))
 
     def validate_file_name(self, regex, LenOfFileDate, LenOfFileTime):
+        """
+        :description: Method is used to validate batch file names and it cretess a copy of the correct mathcing name file in directory Validated_Training_Batch_Files/GoodFileSchemaDataFolder and forrejected files in dir Validated_Training_Batch_Files/BadFileSchemaDataFolder.
+        :param regex: takes in the allowed regec pattern for matching with file names
+        :param LenOfFileDate: len of characters specifying Date in file name
+        :param LenOfFileTime: len of characters specifying Time in file name
+        """
         
         # deleting Good_BadFileSchema directory in start to avoid any issue that might be caused due to some previous unsuccessful run.
 
@@ -189,6 +212,10 @@ class Train_file_schema_validate:
             log_file.close()
 
     def validate_no_cols(self, accepted_no_cols):
+        """
+        :description: Method is used to validate umber of cols in each batch file and it keeps a the correct file in directory Validated_Training_Batch_Files/GoodFileSchemaDataFolder and for rejected files it moves them to directory  Validated_Training_Batch_Files/BadFileSchemaDataFolder.
+        :param accepted_no_cols: Number of cols accepted
+        """
         try:
             good_file_schema_data_dir_path = 'Validated_Training_Batch_Files/GoodFileSchemaDataFolder' 
             filenames = os.listdir(good_file_schema_data_dir_path)
@@ -219,6 +246,10 @@ class Train_file_schema_validate:
             log_file.close()
         
     def validate_missing_values(self):
+        """
+        :description: Method is used to validate missing values in each batch file and it keeps a the correct file in directory Validated_Training_Batch_Files/GoodFileSchemaDataFolder and for rejected files it moves them to directory  Validated_Training_Batch_Files/BadFileSchemaDataFolder.
+        :param accepted_no_cols: Number of cols accepted
+        """
         try:
             good_file_schema_data_dir_path = 'Validated_Training_Batch_Files/GoodFileSchemaDataFolder' 
             filenames = os.listdir(good_file_schema_data_dir_path)

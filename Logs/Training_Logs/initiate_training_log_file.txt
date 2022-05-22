@@ -1,0 +1,38 @@
+2022-05-22/21:40:26		Starting Batch Files Validation
+2022-05-22/21:40:26		Creating object of class Train_file_schema_validate
+2022-05-22/21:40:26		Fetching meta properties of training batch files
+2022-05-22/21:40:26		Fetching regex pattern for file name
+2022-05-22/21:40:26		Validating file names of training batch files
+2022-05-22/21:40:26		Validating no of cols of training batch files
+2022-05-22/21:40:26		Validating missing values of training batch files
+2022-05-22/21:40:26		Validation of training batch files completed
+2022-05-22/21:41:46		Starting data transformation process for GoodDataFiles.
+2022-05-22/21:41:46		Creating object of class DataTransformation
+2022-05-22/21:41:46		Data transformation completed.
+2022-05-22/21:42:11		Starting DbOperations.
+2022-05-22/21:42:11		Creating object of DbOperations.
+2022-05-22/21:42:11		Fetching column details from schema file.
+2022-05-22/21:42:11		Creating table: GoodDataTable in db: Database/trainingDb.db.
+2022-05-22/21:42:12		Inserting records in table : GoodDataTable
+2022-05-22/21:42:12		Fetching records from table : GoodDataTable in db Database/trainingDb.db
+2022-05-22/21:42:12		DbOperations Completed.
+2022-05-22/21:47:22		Starting Preprocessing and training of data.
+2022-05-22/21:47:22		Creating object of Training_data_loader
+2022-05-22/21:47:22		Fetching DataFrame
+2022-05-22/21:47:22		Creating object of DataPreprocessing class.
+2022-05-22/21:47:22		Checking for Null Values in Df
+2022-05-22/21:47:22		Fetchig column names
+2022-05-22/21:47:22		Converting to Log Normal Form
+2022-05-22/21:47:22		Staring handling Outliers
+2022-05-22/21:47:22		Separating Depenedent and Indepenedent Features
+2022-05-22/21:47:22		Scailing data frame
+2022-05-22/21:47:22		Creating object of Cluster Class
+2022-05-22/21:47:22		Staring Clustering of data
+2022-05-22/21:47:52		Reshaping Clusters array to merge later with scaled data
+2022-05-22/21:47:52		Concatenating all arrays : X_scaled, Y and  cluster array
+2022-05-22/21:47:52		Creating DataFrame of above created array
+2022-05-22/21:47:52		Obtaining unique Values in cluster
+2022-05-22/21:47:52		Dividing df based upon cluster
+2022-05-22/21:47:53		Creating object fo ModelSelector class
+2022-05-22/21:47:53		Starting Training DataFrame
+2022-05-22/21:53:19		Training Completed.

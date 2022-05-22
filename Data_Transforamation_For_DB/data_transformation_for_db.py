@@ -12,6 +12,9 @@ class DataTransformation:
 
 
     def transform_data_for_db(self, validatedGoodDataFilePath):
+        """
+        :description: Ready the data for storing in database.
+        :param validatedGoodData: Picks the files from supplied file path and stores it in directory Db_Ingestion_Ready_Files/ """
         try:
             log_file = open(self.datatransformation_log_file_path, 'a+')
 
