@@ -3,7 +3,7 @@ from Logger.logger import Logger
 
 class Training_data_loader:
     def __init__(self):
-        self.train_ready_file_path = "Final_Training_CSV_File/ready_to_train_file.csv"
+        self.train_ready_file_path = "Final_CSV_File/Training/ready_csv_file.csv"
 
         # creating log
         self.log_agent = Logger()

@@ -1,0 +1,7 @@
+2022-05-22/21:41:46		cement_strength_08012020_120021.csv transformed successfully 
+2022-05-23/16:31:51		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction
+2022-05-23/16:33:16		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
+2022-05-23/16:49:22		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
+2022-05-23/16:49:44		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
+2022-05-23/16:54:09		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
+2022-05-23/16:56:53		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/

@@ -1,0 +1,86 @@
+2022-05-23/17:21:29		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:21:29		[Errno 2] No such file or directory: 'Final_CSV_File/Prediction/ready_csv_file.csv'
+2022-05-23/17:23:21		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:23:21		[Errno 2] No such file or directory: 'Final_CSV_File/Prediction/ready_csv_file.csv'
+2022-05-23/17:27:30		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:27:30		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-23/17:33:40		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:33:40		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-23/17:33:46		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:33:46		The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-05-23/17:37:09		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:37:09		DataFrame obtained successfully.
+2022-05-23/17:38:19		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:38:19		DataFrame obtained successfully.
+2022-05-23/17:47:41		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:47:41		DataFrame obtained successfully.
+2022-05-23/17:48:00		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-23/17:48:00		DataFrame obtained successfully.
+2022-05-24/12:58:15		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/12:58:15		DataFrame obtained successfully.
+2022-05-24/13:01:45		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/13:01:45		DataFrame obtained successfully.
+2022-05-24/13:09:30		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/13:09:30		DataFrame obtained successfully.
+2022-05-24/13:12:42		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/13:12:42		DataFrame obtained successfully.
+2022-05-24/14:25:06		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/14:25:06		DataFrame obtained successfully.
+2022-05-24/14:27:32		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/14:27:32		DataFrame obtained successfully.
+2022-05-24/14:28:45		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-24/14:28:45		DataFrame obtained successfully.
+2022-05-25/14:12:26		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/14:12:27		DataFrame obtained successfully.
+2022-05-25/14:13:25		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/14:13:25		DataFrame obtained successfully.
+2022-05-25/14:15:36		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/14:15:36		DataFrame obtained successfully.
+2022-05-25/22:46:37		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:46:37		DataFrame obtained successfully.
+2022-05-25/22:51:12		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:51:12		DataFrame obtained successfully.
+2022-05-25/22:54:33		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:54:33		DataFrame obtained successfully.
+2022-05-25/22:55:17		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:55:17		DataFrame obtained successfully.
+2022-05-25/22:55:30		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:55:30		DataFrame obtained successfully.
+2022-05-25/22:55:37		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/22:55:37		DataFrame obtained successfully.
+2022-05-25/23:00:30		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:00:30		DataFrame obtained successfully.
+2022-05-25/23:01:28		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:01:28		DataFrame obtained successfully.
+2022-05-25/23:02:11		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:02:11		DataFrame obtained successfully.
+2022-05-25/23:04:47		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:04:47		DataFrame obtained successfully.
+2022-05-25/23:06:02		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:06:02		DataFrame obtained successfully.
+2022-05-25/23:07:28		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:07:28		DataFrame obtained successfully.
+2022-05-25/23:12:52		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:12:52		DataFrame obtained successfully.
+2022-05-25/23:14:56		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:14:56		DataFrame obtained successfully.
+2022-05-25/23:23:28		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:23:28		DataFrame obtained successfully.
+2022-05-25/23:24:11		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:24:11		DataFrame obtained successfully.
+2022-05-25/23:24:25		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:24:25		DataFrame obtained successfully.
+2022-05-25/23:25:05		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:25:05		DataFrame obtained successfully.
+2022-05-25/23:29:48		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:29:48		DataFrame obtained successfully.
+2022-05-25/23:30:36		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:30:36		DataFrame obtained successfully.
+2022-05-25/23:32:45		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:32:45		DataFrame obtained successfully.
+2022-05-25/23:33:23		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:33:23		DataFrame obtained successfully.
+2022-05-25/23:36:53		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:36:53		DataFrame obtained successfully.
+2022-05-25/23:39:27		Retrieving Prediction file Final_CSV_File/Prediction/ready_csv_file.csv
+2022-05-25/23:39:27		DataFrame obtained successfully.

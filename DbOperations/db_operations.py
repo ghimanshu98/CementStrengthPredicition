@@ -18,20 +18,28 @@ class DbOperations:
         self.log_agent = Logger()
 
         if training:
-            self.dbOps_log_file_path = 'Logs/training_db_ops_log_file.txt'
+            self.dbOps_log_file_path = 'Logs/Training_Logs/training_db_ops_log_file.txt'
+
             self.schema_val_file = 'File_Schema_Validation/files_schema/schema_training.json'
+
+             # path of dir containing files ready for db ingestion
+            self.db_ready_file_path = 'Db_Ingestion_Ready_Files/Training'
+
+            # path to write files after fetching from DB
+            self.final_training_file_path = 'Final_CSV_File/Training'
         else:
-            self.dbOps_log_file_path = 'Logs/prediction_db_ops_log_file.txt'
+            self.dbOps_log_file_path = 'Logs/Prediction_Logs/prediction_db_ops_log_file.txt'
+
             self.schema_val_file = 'File_Schema_Validation/files_schema/schema_prediction.json'
+
+             # path of dir containing files ready for db ingestion
+            self.db_ready_file_path = 'Db_Ingestion_Ready_Files/Prediction'
+
+            # path to write files after fetching from DB
+            self.final_training_file_path = 'Final_CSV_File/Prediction'
         
         # database
         self.database_path = db_path
-
-        # path of dir containing files ready for db ingestion
-        self.db_ready_file_path = 'Db_Ingestion_Ready_Files'
-
-        # path to write files after fetching from DB
-        self.final_training_file_path = 'Final_Training_CSV_File'
 
         # table name
         self.table_name = tableName
@@ -194,7 +202,7 @@ class DbOperations:
 
                     if len(records) != 0:
                         df = pd.DataFrame(records, columns= col_names)
-                        df.to_csv(self.final_training_file_path+"/ready_to_train_file.csv", index= False)
+                        df.to_csv(self.final_training_file_path+"/ready_csv_file.csv", index= False)
                         message = "{}  records retrieved from table {} in {}".format(len(records), self.table_name, self.database_path)
                         self.log_agent.log(log_file, message)
                         log_file.close()

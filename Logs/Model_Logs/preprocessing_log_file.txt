@@ -645,3 +645,477 @@
 2022-05-22/21:51:31		Dependent and Independent features separated successfully.
 2022-05-22/21:52:12		Dependent and Independent features separated successfully.
 2022-05-22/21:52:45		Dependent and Independent features separated successfully.
+2022-05-23/17:22:43		Error occurred during checking Null values in colusmns. 'NoneType' object has no attribute 'columns'
+2022-05-23/17:22:43		Error : 'NoneType' object has no attribute 'columns'
+2022-05-23/17:24:12		Error occurred during checking Null values in colusmns. 'NoneType' object has no attribute 'columns'
+2022-05-23/17:24:12		Error : 'NoneType' object has no attribute 'columns'
+2022-05-23/17:27:41		Error occurred during checking Null values in colusmns. 'NoneType' object has no attribute 'columns'
+2022-05-23/17:27:47		Error : 'NoneType' object has no attribute 'columns'
+2022-05-23/17:38:33		DataFrame contains 0 null colums {}
+2022-05-23/17:38:45		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-23/17:39:05		Starting Log Conversions for Dataframe
+2022-05-23/17:39:05		Log Conversions for Dataframe completed
+2022-05-23/17:39:22		Lower Fence : 4.510069343896722 and Upper Fence : 6.802437393864688 for feature Cement _component_1
+2022-05-23/17:39:22		Lower Fence : -7.797140521138777 and Upper Fence : 12.995234201897961 for feature Blast Furnace Slag _component_2
+2022-05-23/17:39:22		Lower Fence : -6.8728523385731055 and Upper Fence : 11.454753897621842 for feature Fly Ash _component_3
+2022-05-23/17:39:22		Lower Fence : 4.789587541170265 and Upper Fence : 5.546551777545657 for feature Water_component_4
+2022-05-23/17:39:22		Lower Fence : 0.4613250096599151 and Upper Fence : 3.7771198965359423 for feature Superplasticizer_component_5
+2022-05-23/17:39:22		Lower Fence : 6.648338425810998 and Upper Fence : 7.138266449282835 for feature Coarse Aggregate_component_6
+2022-05-23/17:39:22		Lower Fence : 6.420739298487458 and Upper Fence : 6.979534579687112 for feature Fine Aggregate_component_7
+2022-05-23/17:39:22		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-23/17:39:22		Starting handling outlier process.
+2022-05-23/17:39:22		Handled Ouliers , Rows containing outlier values dropped are 234
+2022-05-23/17:47:41		DataFrame contains 0 null colums {}
+2022-05-23/17:47:41		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-23/17:47:41		Starting Log Conversions for Dataframe
+2022-05-23/17:47:41		Log Conversions for Dataframe completed
+2022-05-23/17:47:41		Lower Fence : 4.510069343896722 and Upper Fence : 6.802437393864688 for feature Cement _component_1
+2022-05-23/17:47:41		Lower Fence : -7.797140521138777 and Upper Fence : 12.995234201897961 for feature Blast Furnace Slag _component_2
+2022-05-23/17:47:41		Lower Fence : -6.8728523385731055 and Upper Fence : 11.454753897621842 for feature Fly Ash _component_3
+2022-05-23/17:47:41		Lower Fence : 4.789587541170265 and Upper Fence : 5.546551777545657 for feature Water_component_4
+2022-05-23/17:47:41		Lower Fence : 0.4613250096599151 and Upper Fence : 3.7771198965359423 for feature Superplasticizer_component_5
+2022-05-23/17:47:41		Lower Fence : 6.648338425810998 and Upper Fence : 7.138266449282835 for feature Coarse Aggregate_component_6
+2022-05-23/17:47:41		Lower Fence : 6.420739298487458 and Upper Fence : 6.979534579687112 for feature Fine Aggregate_component_7
+2022-05-23/17:47:41		Lower Fence : -0.8659730475522358 and Upper Fence : 6.988465857066622 for feature Age_day
+2022-05-23/17:47:41		Starting handling outlier process.
+2022-05-23/17:47:41		Handled Ouliers , Rows containing outlier values dropped are 234
+2022-05-23/17:48:00		DataFrame contains 0 null colums {}
+2022-05-23/17:48:00		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-23/17:48:00		Starting Log Conversions for Dataframe
+2022-05-23/17:48:00		Log Conversions for Dataframe completed
+2022-05-23/17:54:31		Initiating Reshaping process of Array
+2022-05-23/17:54:31		Reshaping of Array completed
+2022-05-23/17:55:03		Concatenation of Array started
+2022-05-23/17:55:03		Concatenation of Array completed
+2022-05-23/17:56:00		Dataframe Creation started
+2022-05-23/17:56:00		Dataframe creation completed
+2022-05-24/12:58:19		DataFrame contains 0 null colums {}
+2022-05-24/12:58:24		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/12:58:27		Starting Log Conversions for Dataframe
+2022-05-24/12:58:27		Log Conversions for Dataframe completed
+2022-05-24/13:01:52		DataFrame contains 0 null colums {}
+2022-05-24/13:01:54		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/13:01:56		Starting Log Conversions for Dataframe
+2022-05-24/13:01:56		Log Conversions for Dataframe completed
+2022-05-24/13:02:57		Initiating Reshaping process of Array
+2022-05-24/13:02:57		Reshaping of Array completed
+2022-05-24/13:03:10		Concatenation of Array started
+2022-05-24/13:03:10		Concatenation of Array completed
+2022-05-24/13:03:28		Dataframe Creation started
+2022-05-24/13:03:28		Dataframe creation completed
+2022-05-24/13:09:30		DataFrame contains 0 null colums {}
+2022-05-24/13:09:30		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/13:09:30		Starting Log Conversions for Dataframe
+2022-05-24/13:09:30		Log Conversions for Dataframe completed
+2022-05-24/13:09:36		Initiating Reshaping process of Array
+2022-05-24/13:09:36		Reshaping of Array completed
+2022-05-24/13:09:36		Concatenation of Array started
+2022-05-24/13:09:36		Concatenation of Array completed
+2022-05-24/13:09:36		Dataframe Creation started
+2022-05-24/13:09:36		Dataframe creation completed
+2022-05-24/13:12:42		DataFrame contains 0 null colums {}
+2022-05-24/13:12:42		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/13:12:42		Starting Log Conversions for Dataframe
+2022-05-24/13:12:42		Log Conversions for Dataframe completed
+2022-05-24/13:12:43		Initiating Reshaping process of Array
+2022-05-24/13:12:43		Reshaping of Array completed
+2022-05-24/13:12:43		Concatenation of Array started
+2022-05-24/13:12:43		Concatenation of Array completed
+2022-05-24/13:12:43		Dataframe Creation started
+2022-05-24/13:12:43		Dataframe creation completed
+2022-05-24/14:25:13		DataFrame contains 0 null colums {}
+2022-05-24/14:25:15		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/14:25:16		Starting Log Conversions for Dataframe
+2022-05-24/14:25:17		Log Conversions for Dataframe completed
+2022-05-24/14:25:30		Initiating Reshaping process of Array
+2022-05-24/14:25:30		Reshaping of Array completed
+2022-05-24/14:25:33		Concatenation of Array started
+2022-05-24/14:25:33		Concatenation of Array completed
+2022-05-24/14:25:34		Dataframe Creation started
+2022-05-24/14:25:34		Dataframe creation completed
+2022-05-24/14:27:32		DataFrame contains 0 null colums {}
+2022-05-24/14:27:32		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/14:27:32		Starting Log Conversions for Dataframe
+2022-05-24/14:27:32		Log Conversions for Dataframe completed
+2022-05-24/14:27:32		Initiating Reshaping process of Array
+2022-05-24/14:27:32		Reshaping of Array completed
+2022-05-24/14:27:32		Concatenation of Array started
+2022-05-24/14:27:32		Concatenation of Array completed
+2022-05-24/14:27:32		Dataframe Creation started
+2022-05-24/14:27:32		Dataframe creation completed
+2022-05-24/14:28:45		DataFrame contains 0 null colums {}
+2022-05-24/14:28:45		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-24/14:28:45		Starting Log Conversions for Dataframe
+2022-05-24/14:28:45		Log Conversions for Dataframe completed
+2022-05-24/14:28:46		Initiating Reshaping process of Array
+2022-05-24/14:28:46		Reshaping of Array completed
+2022-05-24/14:28:46		Concatenation of Array started
+2022-05-24/14:28:46		Concatenation of Array completed
+2022-05-24/14:28:46		Dataframe Creation started
+2022-05-24/14:28:46		Dataframe creation completed
+2022-05-25/14:12:27		DataFrame contains 0 null colums {}
+2022-05-25/14:12:27		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/14:12:27		Starting Log Conversions for Dataframe
+2022-05-25/14:12:27		Log Conversions for Dataframe completed
+2022-05-25/14:12:28		Initiating Reshaping process of Array
+2022-05-25/14:12:28		Reshaping of Array completed
+2022-05-25/14:12:28		Concatenation of Array started
+2022-05-25/14:12:28		Concatenation of Array completed
+2022-05-25/14:12:28		Dataframe Creation started
+2022-05-25/14:12:28		Dataframe creation completed
+2022-05-25/14:13:25		DataFrame contains 0 null colums {}
+2022-05-25/14:13:25		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/14:13:25		Starting Log Conversions for Dataframe
+2022-05-25/14:13:25		Log Conversions for Dataframe completed
+2022-05-25/14:13:27		Initiating Reshaping process of Array
+2022-05-25/14:13:27		Reshaping of Array completed
+2022-05-25/14:13:27		Concatenation of Array started
+2022-05-25/14:13:27		Concatenation of Array completed
+2022-05-25/14:13:27		Dataframe Creation started
+2022-05-25/14:13:27		Dataframe creation completed
+2022-05-25/14:15:36		DataFrame contains 0 null colums {}
+2022-05-25/14:15:36		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/14:15:36		Starting Log Conversions for Dataframe
+2022-05-25/14:15:37		Log Conversions for Dataframe completed
+2022-05-25/14:15:41		Initiating Reshaping process of Array
+2022-05-25/14:15:41		Reshaping of Array completed
+2022-05-25/14:15:41		Concatenation of Array started
+2022-05-25/14:15:41		Concatenation of Array completed
+2022-05-25/14:15:41		Dataframe Creation started
+2022-05-25/14:15:41		Dataframe creation completed
+2022-05-25/14:17:45		Dataframe Creation started
+2022-05-25/14:17:45		Dataframe creation completed
+2022-05-25/22:46:37		DataFrame contains 0 null colums {}
+2022-05-25/22:46:37		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:46:37		Starting Log Conversions for Dataframe
+2022-05-25/22:46:38		Log Conversions for Dataframe completed
+2022-05-25/22:46:43		Initiating Reshaping process of Array
+2022-05-25/22:46:43		Reshaping of Array completed
+2022-05-25/22:46:43		Concatenation of Array started
+2022-05-25/22:46:43		Concatenation of Array completed
+2022-05-25/22:46:43		Dataframe Creation started
+2022-05-25/22:46:43		Dataframe creation completed
+2022-05-25/22:49:00		Dataframe Creation started
+2022-05-25/22:49:00		Dataframe creation completed
+2022-05-25/22:51:12		DataFrame contains 0 null colums {}
+2022-05-25/22:51:12		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:51:12		Starting Log Conversions for Dataframe
+2022-05-25/22:51:12		Log Conversions for Dataframe completed
+2022-05-25/22:51:12		Initiating Reshaping process of Array
+2022-05-25/22:51:12		Reshaping of Array completed
+2022-05-25/22:51:12		Concatenation of Array started
+2022-05-25/22:51:12		Concatenation of Array completed
+2022-05-25/22:51:12		Dataframe Creation started
+2022-05-25/22:51:12		Dataframe creation completed
+2022-05-25/22:51:31		Dataframe Creation started
+2022-05-25/22:51:31		Dataframe creation completed
+2022-05-25/22:54:33		DataFrame contains 0 null colums {}
+2022-05-25/22:54:33		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:54:33		Starting Log Conversions for Dataframe
+2022-05-25/22:54:33		Log Conversions for Dataframe completed
+2022-05-25/22:54:34		Initiating Reshaping process of Array
+2022-05-25/22:54:34		Reshaping of Array completed
+2022-05-25/22:54:34		Concatenation of Array started
+2022-05-25/22:54:34		Concatenation of Array completed
+2022-05-25/22:54:34		Dataframe Creation started
+2022-05-25/22:54:34		Dataframe creation completed
+2022-05-25/22:55:17		DataFrame contains 0 null colums {}
+2022-05-25/22:55:17		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:55:17		Starting Log Conversions for Dataframe
+2022-05-25/22:55:17		Log Conversions for Dataframe completed
+2022-05-25/22:55:17		Initiating Reshaping process of Array
+2022-05-25/22:55:17		Reshaping of Array completed
+2022-05-25/22:55:17		Concatenation of Array started
+2022-05-25/22:55:17		Concatenation of Array completed
+2022-05-25/22:55:17		Dataframe Creation started
+2022-05-25/22:55:17		Dataframe creation completed
+2022-05-25/22:55:30		DataFrame contains 0 null colums {}
+2022-05-25/22:55:30		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:55:30		Starting Log Conversions for Dataframe
+2022-05-25/22:55:30		Log Conversions for Dataframe completed
+2022-05-25/22:55:30		Initiating Reshaping process of Array
+2022-05-25/22:55:30		Reshaping of Array completed
+2022-05-25/22:55:30		Concatenation of Array started
+2022-05-25/22:55:30		Concatenation of Array completed
+2022-05-25/22:55:30		Dataframe Creation started
+2022-05-25/22:55:30		Dataframe creation completed
+2022-05-25/22:55:37		DataFrame contains 0 null colums {}
+2022-05-25/22:55:37		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/22:55:37		Starting Log Conversions for Dataframe
+2022-05-25/22:55:37		Log Conversions for Dataframe completed
+2022-05-25/22:55:37		Initiating Reshaping process of Array
+2022-05-25/22:55:37		Reshaping of Array completed
+2022-05-25/22:55:37		Concatenation of Array started
+2022-05-25/22:55:37		Concatenation of Array completed
+2022-05-25/22:55:37		Dataframe Creation started
+2022-05-25/22:55:37		Dataframe creation completed
+2022-05-25/23:00:30		DataFrame contains 0 null colums {}
+2022-05-25/23:00:30		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:00:30		Starting Log Conversions for Dataframe
+2022-05-25/23:00:30		Log Conversions for Dataframe completed
+2022-05-25/23:00:31		Initiating Reshaping process of Array
+2022-05-25/23:00:31		Reshaping of Array completed
+2022-05-25/23:00:31		Concatenation of Array started
+2022-05-25/23:00:31		Concatenation of Array completed
+2022-05-25/23:00:31		Dataframe Creation started
+2022-05-25/23:00:31		Dataframe creation completed
+2022-05-25/23:01:28		DataFrame contains 0 null colums {}
+2022-05-25/23:01:28		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:01:28		Starting Log Conversions for Dataframe
+2022-05-25/23:01:28		Log Conversions for Dataframe completed
+2022-05-25/23:01:28		Initiating Reshaping process of Array
+2022-05-25/23:01:28		Reshaping of Array completed
+2022-05-25/23:01:28		Concatenation of Array started
+2022-05-25/23:01:28		Concatenation of Array completed
+2022-05-25/23:01:28		Dataframe Creation started
+2022-05-25/23:01:28		Dataframe creation completed
+2022-05-25/23:02:11		DataFrame contains 0 null colums {}
+2022-05-25/23:02:11		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:02:11		Starting Log Conversions for Dataframe
+2022-05-25/23:02:11		Log Conversions for Dataframe completed
+2022-05-25/23:02:13		Initiating Reshaping process of Array
+2022-05-25/23:02:13		Reshaping of Array completed
+2022-05-25/23:02:13		Concatenation of Array started
+2022-05-25/23:02:13		Concatenation of Array completed
+2022-05-25/23:02:13		Dataframe Creation started
+2022-05-25/23:02:13		Dataframe creation completed
+2022-05-25/23:04:47		DataFrame contains 0 null colums {}
+2022-05-25/23:04:47		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:04:47		Starting Log Conversions for Dataframe
+2022-05-25/23:04:47		Log Conversions for Dataframe completed
+2022-05-25/23:04:48		Initiating Reshaping process of Array
+2022-05-25/23:04:48		Reshaping of Array completed
+2022-05-25/23:04:48		Concatenation of Array started
+2022-05-25/23:04:48		Concatenation of Array completed
+2022-05-25/23:04:48		Dataframe Creation started
+2022-05-25/23:04:48		Dataframe creation completed
+2022-05-25/23:06:02		DataFrame contains 0 null colums {}
+2022-05-25/23:06:02		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:06:02		Starting Log Conversions for Dataframe
+2022-05-25/23:06:02		Log Conversions for Dataframe completed
+2022-05-25/23:06:02		Initiating Reshaping process of Array
+2022-05-25/23:06:02		Reshaping of Array completed
+2022-05-25/23:06:02		Concatenation of Array started
+2022-05-25/23:06:02		Concatenation of Array completed
+2022-05-25/23:06:02		Dataframe Creation started
+2022-05-25/23:06:02		Dataframe creation completed
+2022-05-25/23:07:28		DataFrame contains 0 null colums {}
+2022-05-25/23:07:28		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:07:28		Starting Log Conversions for Dataframe
+2022-05-25/23:07:28		Log Conversions for Dataframe completed
+2022-05-25/23:07:28		Initiating Reshaping process of Array
+2022-05-25/23:07:28		Reshaping of Array completed
+2022-05-25/23:07:28		Concatenation of Array started
+2022-05-25/23:07:28		Concatenation of Array completed
+2022-05-25/23:07:28		Dataframe Creation started
+2022-05-25/23:07:28		Dataframe creation completed
+2022-05-25/23:08:14		Concatenation of Array started
+2022-05-25/23:08:14		Concatenation of Array completed
+2022-05-25/23:08:14		Dataframe Creation started
+2022-05-25/23:08:14		Dataframe creation completed
+2022-05-25/23:12:52		DataFrame contains 0 null colums {}
+2022-05-25/23:12:52		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:12:52		Starting Log Conversions for Dataframe
+2022-05-25/23:12:52		Log Conversions for Dataframe completed
+2022-05-25/23:12:52		Initiating Reshaping process of Array
+2022-05-25/23:12:52		Reshaping of Array completed
+2022-05-25/23:12:52		Concatenation of Array started
+2022-05-25/23:12:52		Concatenation of Array completed
+2022-05-25/23:12:52		Dataframe Creation started
+2022-05-25/23:12:52		Dataframe creation completed
+2022-05-25/23:13:43		Concatenation of Array started
+2022-05-25/23:13:43		Concatenation of Array completed
+2022-05-25/23:13:43		Dataframe Creation started
+2022-05-25/23:13:43		Error occurred while creating Dataframe Must pass 2-d input. shape=(1, 1136, 10)
+2022-05-25/23:14:56		DataFrame contains 0 null colums {}
+2022-05-25/23:14:56		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:14:56		Starting Log Conversions for Dataframe
+2022-05-25/23:14:56		Log Conversions for Dataframe completed
+2022-05-25/23:14:56		Initiating Reshaping process of Array
+2022-05-25/23:14:56		Reshaping of Array completed
+2022-05-25/23:14:56		Concatenation of Array started
+2022-05-25/23:14:56		Concatenation of Array completed
+2022-05-25/23:14:56		Dataframe Creation started
+2022-05-25/23:14:56		Dataframe creation completed
+2022-05-25/23:15:47		Concatenation of Array started
+2022-05-25/23:15:47		Concatenation of Array completed
+2022-05-25/23:15:47		Dataframe Creation started
+2022-05-25/23:15:47		Dataframe creation completed
+2022-05-25/23:23:28		DataFrame contains 0 null colums {}
+2022-05-25/23:23:28		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:23:28		Starting Log Conversions for Dataframe
+2022-05-25/23:23:28		Log Conversions for Dataframe completed
+2022-05-25/23:23:28		Initiating Reshaping process of Array
+2022-05-25/23:23:28		Reshaping of Array completed
+2022-05-25/23:23:28		Concatenation of Array started
+2022-05-25/23:23:28		Concatenation of Array completed
+2022-05-25/23:23:28		Dataframe Creation started
+2022-05-25/23:23:28		Dataframe creation completed
+2022-05-25/23:24:25		DataFrame contains 0 null colums {}
+2022-05-25/23:24:25		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:24:25		Starting Log Conversions for Dataframe
+2022-05-25/23:24:25		Log Conversions for Dataframe completed
+2022-05-25/23:24:25		Initiating Reshaping process of Array
+2022-05-25/23:24:25		Reshaping of Array completed
+2022-05-25/23:24:25		Concatenation of Array started
+2022-05-25/23:24:25		Concatenation of Array completed
+2022-05-25/23:24:25		Dataframe Creation started
+2022-05-25/23:24:25		Dataframe creation completed
+2022-05-25/23:29:48		DataFrame contains 0 null colums {}
+2022-05-25/23:29:48		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:29:48		Starting Log Conversions for Dataframe
+2022-05-25/23:29:48		Log Conversions for Dataframe completed
+2022-05-25/23:29:48		Initiating Reshaping process of Array
+2022-05-25/23:29:48		Reshaping of Array completed
+2022-05-25/23:29:48		Concatenation of Array started
+2022-05-25/23:29:48		Concatenation of Array completed
+2022-05-25/23:29:48		Dataframe Creation started
+2022-05-25/23:29:48		Dataframe creation completed
+2022-05-25/23:32:45		DataFrame contains 0 null colums {}
+2022-05-25/23:32:45		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:32:45		Starting Log Conversions for Dataframe
+2022-05-25/23:32:45		Log Conversions for Dataframe completed
+2022-05-25/23:32:45		Initiating Reshaping process of Array
+2022-05-25/23:32:45		Reshaping of Array completed
+2022-05-25/23:32:45		Concatenation of Array started
+2022-05-25/23:32:45		Concatenation of Array completed
+2022-05-25/23:32:45		Dataframe Creation started
+2022-05-25/23:32:45		Dataframe creation completed
+2022-05-25/23:36:53		DataFrame contains 0 null colums {}
+2022-05-25/23:36:53		Dataframe contains following cols Index(['Cement _component_1', 'Blast Furnace Slag _component_2',
+       'Fly Ash _component_3', 'Water_component_4',
+       'Superplasticizer_component_5', 'Coarse Aggregate_component_6',
+       'Fine Aggregate_component_7', 'Age_day'],
+      dtype='object')
+2022-05-25/23:36:53		Starting Log Conversions for Dataframe
+2022-05-25/23:36:53		Log Conversions for Dataframe completed
+2022-05-25/23:36:54		Initiating Reshaping process of Array
+2022-05-25/23:36:54		Reshaping of Array completed
+2022-05-25/23:36:54		Concatenation of Array started
+2022-05-25/23:36:54		Concatenation of Array completed
+2022-05-25/23:36:54		Dataframe Creation started
+2022-05-25/23:36:54		Dataframe creation completed

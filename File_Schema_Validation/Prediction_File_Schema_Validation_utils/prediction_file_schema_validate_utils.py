@@ -19,7 +19,7 @@ class Predict_file_schema_validate:
         self.log_agent = Logger()                       # Logger instance
         self.predict_schema_path = 'File_Schema_Validation/files_schema/schema_prediction.json'    # train schema path
 
-        self.predict_file_schema_log_filepath = 'Logs/predict_file_schema_validate.txt'
+        self.predict_file_schema_log_filepath = 'Logs/Prediction_Logs/predict_file_schema_validate.txt'
 
     def getValuesFromSchema(self):
         try:

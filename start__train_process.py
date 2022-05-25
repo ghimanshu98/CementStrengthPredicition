@@ -67,7 +67,7 @@ class InitiateProcess:
 			self.log_agent.log(log_file, "Starting data transformation process for GoodDataFiles.")
 			# creating obj of DataTransformation
 			self.log_agent.log(log_file, "Creating object of class DataTransformation")
-			transformation_obj = DataTransformation()
+			transformation_obj = DataTransformation(training = True)
 
 			# performing data transformation
 			# self.log_agent.log(log_file, "Calling transform_data_for_db() of DataTransformation class.")

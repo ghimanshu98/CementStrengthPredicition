@@ -1,0 +1,294 @@
+2022-05-23/17:16:08		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:16:08		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:16:08		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:16:08		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:16:08		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:16:08		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:16:08		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:16:08		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:16:09		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:16:09		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:16:58		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:16:58		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:16:58		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:16:59		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:16:59		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:16:59		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:16:59		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:16:59		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:16:59		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:16:59		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:18:56		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:18:56		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:18:56		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:18:56		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:18:57		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:18:57		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:18:57		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:18:57		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:18:57		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:18:57		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:20:41		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:20:41		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:20:41		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:20:41		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:20:41		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:20:41		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:20:42		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:20:42		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:20:42		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:20:42		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:22:54		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:22:54		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:22:54		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:22:54		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:22:54		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:22:54		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:22:54		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:22:54		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:22:54		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:22:54		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:26:20		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:26:20		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:26:20		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:26:20		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:26:20		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:26:20		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:26:20		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:26:20		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:26:20		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:26:20		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:37:27		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:37:27		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:37:27		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:37:27		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:37:27		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:37:27		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:37:27		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:37:27		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:37:27		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:37:27		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-23/17:47:59		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-23/17:47:59		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-23/17:47:59		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-23/17:47:59		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-23/17:47:59		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-23/17:47:59		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:47:59		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-23/17:47:59		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-23/17:47:59		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-23/17:47:59		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/12:53:54		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/12:53:54		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/12:53:54		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/12:53:54		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/12:53:54		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/12:53:55		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/12:53:55		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/12:53:55		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/12:53:55		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/12:53:55		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/13:00:50		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/13:00:50		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/13:00:50		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/13:00:50		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/13:00:50		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/13:00:50		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/13:00:50		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/13:00:50		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/13:00:50		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/13:00:50		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/13:12:23		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/13:12:23		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/13:12:23		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/13:12:23		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/13:12:23		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/13:12:23		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/13:12:23		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/13:12:23		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/13:12:23		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/13:12:23		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/14:24:13		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/14:24:13		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/14:24:13		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/14:24:13		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/14:24:13		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/14:24:13		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:24:13		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:24:13		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/14:24:13		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/14:24:13		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/14:24:43		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/14:24:43		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/14:24:43		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/14:24:43		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/14:24:43		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/14:24:43		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:24:43		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:24:43		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/14:24:43		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/14:24:43		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/14:27:30		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/14:27:30		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/14:27:30		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/14:27:30		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/14:27:30		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/14:27:30		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:27:30		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:27:30		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/14:27:30		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/14:27:31		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-24/14:28:44		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-24/14:28:44		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-24/14:28:44		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-24/14:28:44		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-24/14:28:44		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-24/14:28:44		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:28:44		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-24/14:28:44		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-24/14:28:44		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-24/14:28:44		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/14:15:35		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/14:15:35		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/14:15:35		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/14:15:35		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/14:15:35		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/14:15:35		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/14:15:35		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/14:15:35		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/14:15:35		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/14:15:35		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/22:46:35		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/22:46:35		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/22:46:35		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/22:46:35		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/22:46:35		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/22:46:35		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:46:35		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:46:35		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/22:46:35		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/22:46:35		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/22:51:04		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/22:51:04		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/22:51:04		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/22:51:04		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/22:51:04		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/22:51:04		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:51:04		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:51:04		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/22:51:04		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/22:51:04		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/22:54:29		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/22:54:29		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/22:54:29		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/22:54:30		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/22:54:30		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/22:54:30		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:54:30		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:54:30		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/22:54:30		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/22:54:30		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/22:59:09		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/22:59:09		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/22:59:09		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/22:59:09		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/22:59:09		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/22:59:09		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:59:09		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/22:59:09		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/22:59:09		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/22:59:09		No missing values found in file cement_strength_08012020_120021.csv
+2022-05-25/23:01:26		Values obtained from Schema :- SampleFileName: cement_strength_08012020_1200.csv	LengthOfStampDate: 8	LengthOfStampTime: 6	NumberOfColumns: 8
+
+2022-05-25/23:01:26		 GooDBadFileSchemaDataFolders deleted successfully.
+2022-05-25/23:01:26		Directory Validated_Prediction_Batch_Files/GoodFileSchemaDataFolder Created successfully
+2022-05-25/23:01:26		Directory Validated_Prediction_Batch_Files/BadFileSchemaDataFolder Created successfully
+2022-05-25/23:01:26		cement_strength_08012020_1200.csv is rejected, Copying it from Prediction_Batch_files/cement_strength_08012020_1200.csv to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+
+2022-05-25/23:01:26		cement_strength_08012020_120000.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120000.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/23:01:26		cement_strength_08012020_120021.csvis validated and accepted, Copying it from Prediction_Batch_files/cement_strength_08012020_120021.csvtoValidated_Prediction_Batch_Files/GoodFileSchemaDataFolder
+
+2022-05-25/23:01:26		cement_strength_08012020_120000.csv contains 7 columns which is less than accepeted 8 columns, so moving file to Validated_Prediction_Batch_Files/BadFileSchemaDataFolder
+2022-05-25/23:01:26		cement_strength_08012020_120021.csv contains 8 columns which is equal to 8 columns, so file is good.
+2022-05-25/23:01:26		No missing values found in file cement_strength_08012020_120021.csv

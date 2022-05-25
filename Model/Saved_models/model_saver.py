@@ -9,7 +9,7 @@ class SaveModel:
         self.model_save_log_path = "Logs/Model_Logs/model_save_log_file.txt"
 
         # path for saving models to.
-        self.save_model_path = "Model/Saved_models"
+        self.save_model_path = "Model/Saved_models/model"
 
     def save_model(self, model_obj, model_name):
         try:
@@ -25,11 +25,12 @@ class SaveModel:
             self.log_agent.log(log_file, "Exception occurred during model saving. "+str(e))
             log_file.close()
             
-    def load_model(self, model_path):
+    def load_model(self, model_name):
         try:
             log_file = open(self.model_save_log_path, 'a+')
-            self.log_agent.log(log_file, "Loading saved model {}".format(model_path))
-            loaded_model = pickle.load(open(model_path, 'rb'))
+            self.log_agent.log(log_file, "Loading saved model {}".format(model_name))
+            model_name = self.save_model_path+"/"+model_name
+            loaded_model = pickle.load(open(model_name, 'rb'))
             if loaded_model != None:
                 self.log_agent.log(log_file, "Model {} loaded successfully.".format(loaded_model))
                 log_file.close()

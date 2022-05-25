@@ -1,0 +1,204 @@
+2022-05-23/16:57:16		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-23/16:57:16		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/16:57:16		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-23/16:57:17		Table GoodDataTable created successfully
+2022-05-23/16:57:17		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/16:57:17		Strating csv files insertion to db.
+2022-05-23/16:57:18		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-23/16:57:18		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/16:57:18		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/16:57:18		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-23/16:57:18		Starting record extraction from database
+2022-05-23/16:57:18		284  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:26:48		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-23/17:26:48		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:26:48		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-23/17:26:48		Table GoodDataTable already exists.
+2022-05-23/17:26:48		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:26:48		Strating csv files insertion to db.
+2022-05-23/17:26:49		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-23/17:26:49		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:26:49		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:26:49		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:26:49		Starting record extraction from database
+2022-05-23/17:26:49		568  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:37:28		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-23/17:37:28		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:37:28		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-23/17:37:28		Table GoodDataTable already exists.
+2022-05-23/17:37:28		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:37:28		Strating csv files insertion to db.
+2022-05-23/17:37:29		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-23/17:37:29		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:37:29		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:37:29		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:37:29		Starting record extraction from database
+2022-05-23/17:37:29		852  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:47:59		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-23/17:47:59		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:47:59		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-23/17:47:59		Table GoodDataTable already exists.
+2022-05-23/17:47:59		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:47:59		Strating csv files insertion to db.
+2022-05-23/17:48:00		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-23/17:48:00		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:48:00		DbConnection to Database/predictionDb.db established successfully.
+2022-05-23/17:48:00		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-23/17:48:00		Starting record extraction from database
+2022-05-23/17:48:00		1136  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/12:57:08		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/12:57:08		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/12:57:08		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/12:57:08		Table GoodDataTable already exists.
+2022-05-24/12:57:08		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/12:57:08		Strating csv files insertion to db.
+2022-05-24/12:57:08		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/12:57:08		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/12:57:08		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/12:57:08		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/12:57:08		Starting record extraction from database
+2022-05-24/12:57:09		1420  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/13:00:50		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/13:00:50		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:00:50		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/13:00:50		Table GoodDataTable already exists.
+2022-05-24/13:00:50		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:00:50		Strating csv files insertion to db.
+2022-05-24/13:00:51		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/13:00:51		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:00:51		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:00:51		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/13:00:51		Starting record extraction from database
+2022-05-24/13:00:51		1704  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/13:12:25		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/13:12:25		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:12:25		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/13:12:25		Table GoodDataTable already exists.
+2022-05-24/13:12:25		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:12:25		Strating csv files insertion to db.
+2022-05-24/13:12:25		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/13:12:25		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:12:25		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/13:12:25		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/13:12:25		Starting record extraction from database
+2022-05-24/13:12:25		1988  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:24:44		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/14:24:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:24:44		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/14:24:44		Table GoodDataTable already exists.
+2022-05-24/14:24:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:24:44		Strating csv files insertion to db.
+2022-05-24/14:24:44		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/14:24:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:24:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:24:44		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:24:44		Starting record extraction from database
+2022-05-24/14:24:44		2272  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:27:31		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/14:27:31		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:27:31		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/14:27:31		Table GoodDataTable already exists.
+2022-05-24/14:27:31		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:27:31		Strating csv files insertion to db.
+2022-05-24/14:27:31		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/14:27:31		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:27:31		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:27:31		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:27:31		Starting record extraction from database
+2022-05-24/14:27:31		2556  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:28:44		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-24/14:28:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:28:44		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-24/14:28:44		Table GoodDataTable already exists.
+2022-05-24/14:28:44		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:28:44		Strating csv files insertion to db.
+2022-05-24/14:28:45		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-24/14:28:45		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:28:45		DbConnection to Database/predictionDb.db established successfully.
+2022-05-24/14:28:45		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-24/14:28:45		Starting record extraction from database
+2022-05-24/14:28:45		2840  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/14:15:36		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/14:15:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/14:15:36		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/14:15:36		Table GoodDataTable already exists.
+2022-05-25/14:15:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/14:15:36		Strating csv files insertion to db.
+2022-05-25/14:15:36		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/14:15:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/14:15:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/14:15:36		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/14:15:36		Starting record extraction from database
+2022-05-25/14:15:36		3124  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:46:36		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/22:46:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:46:36		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/22:46:36		Table GoodDataTable already exists.
+2022-05-25/22:46:36		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:46:36		Strating csv files insertion to db.
+2022-05-25/22:46:37		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/22:46:37		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:46:37		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:46:37		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:46:37		Starting record extraction from database
+2022-05-25/22:46:37		3408  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:51:05		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/22:51:05		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:51:05		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/22:51:07		Table GoodDataTable created successfully
+2022-05-25/22:51:07		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:51:07		Strating csv files insertion to db.
+2022-05-25/22:51:07		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/22:51:07		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:51:07		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:51:07		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:51:07		Starting record extraction from database
+2022-05-25/22:51:08		284  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:54:31		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/22:54:31		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:54:31		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/22:54:33		Table GoodDataTable created successfully
+2022-05-25/22:54:33		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:54:33		Strating csv files insertion to db.
+2022-05-25/22:54:33		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/22:54:33		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:54:33		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:54:33		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:54:33		Starting record extraction from database
+2022-05-25/22:54:33		284  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:59:11		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/22:59:11		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:11		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/22:59:11		Table GoodDataTable already exists.
+2022-05-25/22:59:11		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:11		Strating csv files insertion to db.
+2022-05-25/22:59:11		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/22:59:11		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:11		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:11		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:59:11		Starting record extraction from database
+2022-05-25/22:59:11		568  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:59:43		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/22:59:43		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:43		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/22:59:43		Table GoodDataTable already exists.
+2022-05-25/22:59:43		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:43		Strating csv files insertion to db.
+2022-05-25/22:59:43		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/22:59:43		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:43		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/22:59:43		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/22:59:43		Starting record extraction from database
+2022-05-25/22:59:43		852  records retrieved from table GoodDataTable in Database/predictionDb.db
+2022-05-25/23:01:27		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_prediction.json 
+2022-05-25/23:01:27		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/23:01:27		Cursor obtained successfully for db Database/predictionDb.db Moving to Create Table
+2022-05-25/23:01:27		Table GoodDataTable already exists.
+2022-05-25/23:01:27		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/23:01:27		Strating csv files insertion to db.
+2022-05-25/23:01:27		283 records loaded successfully in db Database/predictionDb.db from file cement_strength_08012020_120021.csv
+2022-05-25/23:01:27		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/23:01:27		DbConnection to Database/predictionDb.db established successfully.
+2022-05-25/23:01:27		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day'] obtained successfully from table GoodDataTable in Database/predictionDb.db
+2022-05-25/23:01:27		Starting record extraction from database
+2022-05-25/23:01:27		1136  records retrieved from table GoodDataTable in Database/predictionDb.db

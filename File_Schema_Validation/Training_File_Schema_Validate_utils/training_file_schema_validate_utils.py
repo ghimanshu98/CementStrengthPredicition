@@ -20,7 +20,7 @@ class Train_file_schema_validate:
         self.log_agent = Logger()                       # Logger instance
         self.train_schema_path = 'File_Schema_Validation/files_schema/schema_training.json'    # train schema path
 
-        self.train_file_schema_log_filepath = 'Logs/train_file_schema_validate.txt'
+        self.train_file_schema_log_filepath = 'Logs/Training_Logs/train_file_schema_validate.txt'
 
     def getValuesFromSchema(self):
         """

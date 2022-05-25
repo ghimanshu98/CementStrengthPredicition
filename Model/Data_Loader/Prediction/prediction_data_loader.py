@@ -1,25 +1,25 @@
 import pandas as pd
 from Logger.logger import Logger
 
-class Predictio_ndata_loader:
+class Prediction_data_loader:
     def __init__(self):
-        self.train_ready_file_path = "Final_Prediction_CSV_File"    ### incomplete
+        self.predict_ready_file_path = "Final_CSV_File/Prediction/ready_csv_file.csv"
 
         # creating log
         self.log_agent = Logger()
-        self.train_data_loader_log = "Logs/Model_Logs/Prediction_data_loader_log.txt"
+        self.predict_data_loader_log = "Logs/Prediction_Logs/prediction_data_loader_log.txt"
 
-    def getTrainingDataFrame(self):
+    def getPredictionDataFrame(self):
         try:
-            log_file = open(self.preprocessing_log_file_path, 'a+')
-            self.log_agent.log(log_file, "Retrieving training file {}".format(self.train_ready_file_path))
+            log_file = open(self.predict_data_loader_log, 'a+')
+            self.log_agent.log(log_file, "Retrieving Prediction file {}".format(self.predict_ready_file_path))
 
-            df = pd.read_csv(self.train_ready_file_path)  # obtaining csv -> df
+            df = pd.read_csv(self.predict_ready_file_path)  # obtaining csv -> df
 
-            if df != None:
+            if df.shape[0] != 0:
                 self.log_agent.log(log_file, "DataFrame obtained successfully.")
                 return df
             else:
-                raise Exception('Error occurred while reading file {}'.format(self.train_ready_file_path))
+                raise Exception('Error occurred while reading file {}'.format(self.predict_ready_file_path))
         except Exception as e:
             self.log_agent.log(log_file, str(e))
