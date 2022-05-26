@@ -1,7 +1,3 @@
-2022-05-22/21:41:46		cement_strength_08012020_120021.csv transformed successfully 
-2022-05-23/16:31:51		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction
-2022-05-23/16:33:16		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
-2022-05-23/16:49:22		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
-2022-05-23/16:49:44		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
-2022-05-23/16:54:09		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
-2022-05-23/16:56:53		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Prediction/
+2022-05-26/13:28:19		Error occurred while transforming file [Errno 2] No such file or directory: 'Validated_Training_Batch_Files/GoodFileSchemaDataFolder'
+2022-05-26/13:32:55		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Training/
+2022-05-26/15:08:10		cement_strength_08012020_120021.csv transformed successfully and stored in Db_Ingestion_Ready_Files/Training/

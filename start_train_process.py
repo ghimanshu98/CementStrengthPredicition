@@ -7,7 +7,7 @@ from Model.Data_Pre_Processing.preprocessing import DataPreProcessing
 from Model.Clustering.cluster import Cluster
 from Model.Model_Selection.model_selector import ModelSelector
 
-class InitiateProcess:
+class InitiateTrainProcess:
 	def __init__(self, train_batch_file_path):
 		# Logger object
 		self.log_agent = Logger()

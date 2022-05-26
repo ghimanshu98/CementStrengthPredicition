@@ -1,12 +1,35 @@
-2022-05-22/21:42:11		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_training.json 
-2022-05-22/21:42:11		DbConnection to Database/trainingDb.db established successfully.
-2022-05-22/21:42:11		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
-2022-05-22/21:42:12		Table GoodDataTable created successfully
-2022-05-22/21:42:12		DbConnection to Database/trainingDb.db established successfully.
-2022-05-22/21:42:12		Strating csv files insertion to db.
-2022-05-22/21:42:12		1029 records loaded successfully in db Database/trainingDb.db from file cement_strength_08012020_120021.csv
-2022-05-22/21:42:12		DbConnection to Database/trainingDb.db established successfully.
-2022-05-22/21:42:12		DbConnection to Database/trainingDb.db established successfully.
-2022-05-22/21:42:12		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
-2022-05-22/21:42:12		Starting record extraction from database
-2022-05-22/21:42:12		1030  records retrieved from table GoodDataTable in Database/trainingDb.db
+2022-05-26/13:28:19		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_training.json 
+2022-05-26/13:28:19		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:28:19		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-26/13:28:20		Table GoodDataTable created successfully
+2022-05-26/13:28:20		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:28:20		Strating csv files insertion to db.
+2022-05-26/13:28:20		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:28:20		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:28:20		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-26/13:28:20		Starting record extraction from database
+2022-05-26/13:28:20		Error occurred while fetching records from table. Obtained 0 records from table GoodDataTable in Database/trainingDb.db
+2022-05-26/13:32:55		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_training.json 
+2022-05-26/13:32:55		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:32:55		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-26/13:32:55		Table GoodDataTable already exists.
+2022-05-26/13:32:55		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:32:55		Strating csv files insertion to db.
+2022-05-26/13:32:55		1029 records loaded successfully in db Database/trainingDb.db from file cement_strength_08012020_120021.csv
+2022-05-26/13:32:55		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:32:55		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/13:32:55		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-26/13:32:55		Starting record extraction from database
+2022-05-26/13:32:55		1030  records retrieved from table GoodDataTable in Database/trainingDb.db
+2022-05-26/15:08:10		Column Details fetched successfully from schema File_Schema_Validation/files_schema/schema_training.json 
+2022-05-26/15:08:10		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/15:08:10		Cursor obtained successfully for db Database/trainingDb.db Moving to Create Table
+2022-05-26/15:08:10		Table GoodDataTable already exists.
+2022-05-26/15:08:10		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/15:08:10		Strating csv files insertion to db.
+2022-05-26/15:08:11		1029 records loaded successfully in db Database/trainingDb.db from file cement_strength_08012020_120021.csv
+2022-05-26/15:08:11		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/15:08:11		DbConnection to Database/trainingDb.db established successfully.
+2022-05-26/15:08:11		Following column names ['Cement _component_1', 'Blast Furnace Slag _component_2', 'Fly Ash _component_3', 'Water_component_4', 'Superplasticizer_component_5', 'Coarse Aggregate_component_6', 'Fine Aggregate_component_7', 'Age_day', 'Concrete_compressive _strength'] obtained successfully from table GoodDataTable in Database/trainingDb.db
+2022-05-26/15:08:11		Starting record extraction from database
+2022-05-26/15:08:11		2060  records retrieved from table GoodDataTable in Database/trainingDb.db

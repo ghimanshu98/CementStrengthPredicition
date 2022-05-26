@@ -1,2 +1,6 @@
-2022-05-22/21:47:22		Retrieving training file Final_Training_CSV_File/ready_to_train_file.csv
-2022-05-22/21:47:22		DataFrame obtained successfully.
+2022-05-26/13:28:20		Retrieving training file Final_CSV_File/Training/ready_csv_file.csv
+2022-05-26/13:28:20		[Errno 2] No such file or directory: 'Final_CSV_File/Training/ready_csv_file.csv'
+2022-05-26/13:32:55		Retrieving training file Final_CSV_File/Training/ready_csv_file.csv
+2022-05-26/13:32:55		DataFrame obtained successfully.
+2022-05-26/15:08:11		Retrieving training file Final_CSV_File/Training/ready_csv_file.csv
+2022-05-26/15:08:11		DataFrame obtained successfully.

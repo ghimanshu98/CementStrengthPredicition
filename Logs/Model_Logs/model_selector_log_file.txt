@@ -1,117 +1,221 @@
-2022-05-22/21:47:53		Starting RandomForestRegressor model training..
-2022-05-22/21:47:53		RandomForestRegresor model training completed
-2022-05-22/21:47:53		Starting ElasticNetRegresor model training..
-2022-05-22/21:47:53		ElasticNetRegresor model training completed
-2022-05-22/21:47:53		Copmparing Model process started
-2022-05-22/21:47:53		On comparision RandomForestReg performed better with score 0.9663746752184346 while ElasticNetReg got a score of 0.7038876246380457 
-2022-05-22/21:48:27		Starting RandomForestRegressor model training..
-2022-05-22/21:48:27		RandomForestRegresor model training completed
-2022-05-22/21:48:27		RandomForestRegresor model : RandomForestReg_df_cluster_1.0  Saved successully
-2022-05-22/21:47:53		Initiating model_selector
-2022-05-22/21:47:53		Comparing models for cluster, df_cluster_1.0 
-2022-05-22/21:47:53		RandomForestReg performed better for cluster - df_cluster_1.0, therefore choosing and tuning it
-2022-05-22/21:48:27		Model Selection Process competed.
-2022-05-22/21:48:27		Starting RandomForestRegressor model training..
-2022-05-22/21:48:28		RandomForestRegresor model training completed
-2022-05-22/21:48:28		Starting ElasticNetRegresor model training..
-2022-05-22/21:48:28		ElasticNetRegresor model training completed
-2022-05-22/21:48:27		Copmparing Model process started
-2022-05-22/21:48:28		On comparision RandomForestReg performed better with score 0.9620000172600285 while ElasticNetReg got a score of 0.6279749305983531 
-2022-05-22/21:49:02		Starting RandomForestRegressor model training..
-2022-05-22/21:49:02		RandomForestRegresor model training completed
-2022-05-22/21:49:02		RandomForestRegresor model : RandomForestReg_df_cluster_3.0  Saved successully
-2022-05-22/21:48:27		Initiating model_selector
-2022-05-22/21:48:27		Comparing models for cluster, df_cluster_3.0 
-2022-05-22/21:48:28		RandomForestReg performed better for cluster - df_cluster_3.0, therefore choosing and tuning it
-2022-05-22/21:49:02		Model Selection Process competed.
-2022-05-22/21:49:02		Starting RandomForestRegressor model training..
-2022-05-22/21:49:02		RandomForestRegresor model training completed
-2022-05-22/21:49:02		Starting ElasticNetRegresor model training..
-2022-05-22/21:49:02		ElasticNetRegresor model training completed
-2022-05-22/21:49:02		Copmparing Model process started
-2022-05-22/21:49:02		On comparision RandomForestReg performed better with score 0.9823212596128399 while ElasticNetReg got a score of 0.7134389028737828 
-2022-05-22/21:49:42		Starting RandomForestRegressor model training..
-2022-05-22/21:49:42		RandomForestRegresor model training completed
-2022-05-22/21:49:42		RandomForestRegresor model : RandomForestReg_df_cluster_6.0  Saved successully
-2022-05-22/21:49:02		Initiating model_selector
-2022-05-22/21:49:02		Comparing models for cluster, df_cluster_6.0 
-2022-05-22/21:49:02		RandomForestReg performed better for cluster - df_cluster_6.0, therefore choosing and tuning it
-2022-05-22/21:49:42		Model Selection Process competed.
-2022-05-22/21:49:42		Starting RandomForestRegressor model training..
-2022-05-22/21:49:43		RandomForestRegresor model training completed
-2022-05-22/21:49:43		Starting ElasticNetRegresor model training..
-2022-05-22/21:49:43		ElasticNetRegresor model training completed
-2022-05-22/21:49:42		Copmparing Model process started
-2022-05-22/21:49:43		On comparision RandomForestReg performed better with score 0.9916994011458689 while ElasticNetReg got a score of 0.7708696558125467 
-2022-05-22/21:50:16		Starting RandomForestRegressor model training..
-2022-05-22/21:50:16		RandomForestRegresor model training completed
-2022-05-22/21:50:16		RandomForestRegresor model : RandomForestReg_df_cluster_5.0  Saved successully
-2022-05-22/21:49:42		Initiating model_selector
-2022-05-22/21:49:42		Comparing models for cluster, df_cluster_5.0 
-2022-05-22/21:49:43		RandomForestReg performed better for cluster - df_cluster_5.0, therefore choosing and tuning it
-2022-05-22/21:50:16		Model Selection Process competed.
-2022-05-22/21:50:16		Starting RandomForestRegressor model training..
-2022-05-22/21:50:17		RandomForestRegresor model training completed
-2022-05-22/21:50:17		Starting ElasticNetRegresor model training..
-2022-05-22/21:50:17		ElasticNetRegresor model training completed
-2022-05-22/21:50:16		Copmparing Model process started
-2022-05-22/21:50:17		On comparision RandomForestReg performed better with score 0.9686399609083283 while ElasticNetReg got a score of 0.524663928725515 
-2022-05-22/21:50:50		Starting RandomForestRegressor model training..
-2022-05-22/21:50:50		RandomForestRegresor model training completed
-2022-05-22/21:50:50		RandomForestRegresor model : RandomForestReg_df_cluster_8.0  Saved successully
-2022-05-22/21:50:16		Initiating model_selector
-2022-05-22/21:50:16		Comparing models for cluster, df_cluster_8.0 
-2022-05-22/21:50:17		RandomForestReg performed better for cluster - df_cluster_8.0, therefore choosing and tuning it
-2022-05-22/21:50:50		Model Selection Process competed.
-2022-05-22/21:50:50		Starting RandomForestRegressor model training..
-2022-05-22/21:50:51		RandomForestRegresor model training completed
-2022-05-22/21:50:51		Starting ElasticNetRegresor model training..
-2022-05-22/21:50:51		ElasticNetRegresor model training completed
-2022-05-22/21:50:50		Copmparing Model process started
-2022-05-22/21:50:51		On comparision RandomForestReg performed better with score 0.9558718318295217 while ElasticNetReg got a score of 0.6221004706065945 
-2022-05-22/21:51:30		Starting RandomForestRegressor model training..
-2022-05-22/21:51:31		RandomForestRegresor model training completed
-2022-05-22/21:51:31		RandomForestRegresor model : RandomForestReg_df_cluster_4.0  Saved successully
-2022-05-22/21:50:50		Initiating model_selector
-2022-05-22/21:50:50		Comparing models for cluster, df_cluster_4.0 
-2022-05-22/21:50:51		RandomForestReg performed better for cluster - df_cluster_4.0, therefore choosing and tuning it
-2022-05-22/21:51:31		Model Selection Process competed.
-2022-05-22/21:51:31		Starting RandomForestRegressor model training..
-2022-05-22/21:51:31		RandomForestRegresor model training completed
-2022-05-22/21:51:31		Starting ElasticNetRegresor model training..
-2022-05-22/21:51:31		ElasticNetRegresor model training completed
-2022-05-22/21:51:31		Copmparing Model process started
-2022-05-22/21:51:31		On comparision RandomForestReg performed better with score 0.9864042603032205 while ElasticNetReg got a score of 0.6657213619811309 
-2022-05-22/21:52:12		Starting RandomForestRegressor model training..
-2022-05-22/21:52:12		RandomForestRegresor model training completed
-2022-05-22/21:52:12		RandomForestRegresor model : RandomForestReg_df_cluster_0.0  Saved successully
-2022-05-22/21:51:31		Initiating model_selector
-2022-05-22/21:51:31		Comparing models for cluster, df_cluster_0.0 
-2022-05-22/21:51:31		RandomForestReg performed better for cluster - df_cluster_0.0, therefore choosing and tuning it
-2022-05-22/21:52:12		Model Selection Process competed.
-2022-05-22/21:52:12		Starting RandomForestRegressor model training..
-2022-05-22/21:52:13		RandomForestRegresor model training completed
-2022-05-22/21:52:13		Starting ElasticNetRegresor model training..
-2022-05-22/21:52:13		ElasticNetRegresor model training completed
-2022-05-22/21:52:12		Copmparing Model process started
-2022-05-22/21:52:13		On comparision RandomForestReg performed better with score 0.9859193699809987 while ElasticNetReg got a score of 0.6111301449319813 
-2022-05-22/21:52:45		Starting RandomForestRegressor model training..
-2022-05-22/21:52:45		RandomForestRegresor model training completed
-2022-05-22/21:52:45		RandomForestRegresor model : RandomForestReg_df_cluster_2.0  Saved successully
-2022-05-22/21:52:12		Initiating model_selector
-2022-05-22/21:52:12		Comparing models for cluster, df_cluster_2.0 
-2022-05-22/21:52:13		RandomForestReg performed better for cluster - df_cluster_2.0, therefore choosing and tuning it
-2022-05-22/21:52:45		Model Selection Process competed.
-2022-05-22/21:52:45		Starting RandomForestRegressor model training..
-2022-05-22/21:52:45		RandomForestRegresor model training completed
-2022-05-22/21:52:45		Starting ElasticNetRegresor model training..
-2022-05-22/21:52:45		ElasticNetRegresor model training completed
-2022-05-22/21:52:45		Copmparing Model process started
-2022-05-22/21:52:45		On comparision RandomForestReg performed better with score 0.9811953607531013 while ElasticNetReg got a score of 0.5242771311709302 
-2022-05-22/21:53:18		Starting RandomForestRegressor model training..
-2022-05-22/21:53:19		RandomForestRegresor model training completed
-2022-05-22/21:53:19		RandomForestRegresor model : RandomForestReg_df_cluster_7.0  Saved successully
-2022-05-22/21:52:45		Initiating model_selector
-2022-05-22/21:52:45		Comparing models for cluster, df_cluster_7.0 
-2022-05-22/21:52:45		RandomForestReg performed better for cluster - df_cluster_7.0, therefore choosing and tuning it
-2022-05-22/21:53:19		Model Selection Process competed.
+2022-05-26/13:33:26		Starting RandomForestRegressor model training..
+2022-05-26/13:33:27		RandomForestRegresor model training completed
+2022-05-26/13:33:27		Starting ElasticNetRegresor model training..
+2022-05-26/13:33:27		ElasticNetRegresor model training completed
+2022-05-26/13:33:26		Copmparing Model process started
+2022-05-26/13:33:27		On comparision RandomForestReg performed better with score 0.9663746752184346 while ElasticNetReg got a score of 0.7038876246380457 
+2022-05-26/13:34:17		Starting RandomForestRegressor model training..
+2022-05-26/13:34:18		RandomForestRegresor model training completed
+2022-05-26/13:34:18		RandomForestRegresor model : RandomForestReg_df_cluster_1.0  Saved successully
+2022-05-26/13:33:26		Initiating model_selector
+2022-05-26/13:33:26		Comparing models for cluster, df_cluster_1.0 
+2022-05-26/13:33:27		RandomForestReg performed better for cluster - df_cluster_1.0, therefore choosing and tuning it
+2022-05-26/13:34:18		Model Selection Process competed.
+2022-05-26/13:34:18		Starting RandomForestRegressor model training..
+2022-05-26/13:34:18		RandomForestRegresor model training completed
+2022-05-26/13:34:18		Starting ElasticNetRegresor model training..
+2022-05-26/13:34:18		ElasticNetRegresor model training completed
+2022-05-26/13:34:18		Copmparing Model process started
+2022-05-26/13:34:18		On comparision RandomForestReg performed better with score 0.9620000172600285 while ElasticNetReg got a score of 0.6279749305983529 
+2022-05-26/13:35:00		Starting RandomForestRegressor model training..
+2022-05-26/13:35:00		RandomForestRegresor model training completed
+2022-05-26/13:35:01		RandomForestRegresor model : RandomForestReg_df_cluster_3.0  Saved successully
+2022-05-26/13:34:18		Initiating model_selector
+2022-05-26/13:34:18		Comparing models for cluster, df_cluster_3.0 
+2022-05-26/13:34:18		RandomForestReg performed better for cluster - df_cluster_3.0, therefore choosing and tuning it
+2022-05-26/13:35:01		Model Selection Process competed.
+2022-05-26/13:35:01		Starting RandomForestRegressor model training..
+2022-05-26/13:35:01		RandomForestRegresor model training completed
+2022-05-26/13:35:01		Starting ElasticNetRegresor model training..
+2022-05-26/13:35:01		ElasticNetRegresor model training completed
+2022-05-26/13:35:01		Copmparing Model process started
+2022-05-26/13:35:01		On comparision RandomForestReg performed better with score 0.9823212596128399 while ElasticNetReg got a score of 0.7134389028737829 
+2022-05-26/13:35:39		Starting RandomForestRegressor model training..
+2022-05-26/13:35:39		RandomForestRegresor model training completed
+2022-05-26/13:35:39		RandomForestRegresor model : RandomForestReg_df_cluster_6.0  Saved successully
+2022-05-26/13:35:01		Initiating model_selector
+2022-05-26/13:35:01		Comparing models for cluster, df_cluster_6.0 
+2022-05-26/13:35:01		RandomForestReg performed better for cluster - df_cluster_6.0, therefore choosing and tuning it
+2022-05-26/13:35:39		Model Selection Process competed.
+2022-05-26/13:35:39		Starting RandomForestRegressor model training..
+2022-05-26/13:35:40		RandomForestRegresor model training completed
+2022-05-26/13:35:40		Starting ElasticNetRegresor model training..
+2022-05-26/13:35:40		ElasticNetRegresor model training completed
+2022-05-26/13:35:39		Copmparing Model process started
+2022-05-26/13:35:40		On comparision RandomForestReg performed better with score 0.9916994011458689 while ElasticNetReg got a score of 0.7708696558125467 
+2022-05-26/13:36:26		Starting RandomForestRegressor model training..
+2022-05-26/13:36:26		RandomForestRegresor model training completed
+2022-05-26/13:36:26		RandomForestRegresor model : RandomForestReg_df_cluster_5.0  Saved successully
+2022-05-26/13:35:39		Initiating model_selector
+2022-05-26/13:35:39		Comparing models for cluster, df_cluster_5.0 
+2022-05-26/13:35:40		RandomForestReg performed better for cluster - df_cluster_5.0, therefore choosing and tuning it
+2022-05-26/13:36:26		Model Selection Process competed.
+2022-05-26/13:36:26		Starting RandomForestRegressor model training..
+2022-05-26/13:36:27		RandomForestRegresor model training completed
+2022-05-26/13:36:27		Starting ElasticNetRegresor model training..
+2022-05-26/13:36:27		ElasticNetRegresor model training completed
+2022-05-26/13:36:26		Copmparing Model process started
+2022-05-26/13:36:27		On comparision RandomForestReg performed better with score 0.9686399609083283 while ElasticNetReg got a score of 0.524663928725515 
+2022-05-26/13:37:07		Starting RandomForestRegressor model training..
+2022-05-26/13:37:08		RandomForestRegresor model training completed
+2022-05-26/13:37:08		RandomForestRegresor model : RandomForestReg_df_cluster_8.0  Saved successully
+2022-05-26/13:36:26		Initiating model_selector
+2022-05-26/13:36:26		Comparing models for cluster, df_cluster_8.0 
+2022-05-26/13:36:27		RandomForestReg performed better for cluster - df_cluster_8.0, therefore choosing and tuning it
+2022-05-26/13:37:08		Model Selection Process competed.
+2022-05-26/13:37:08		Starting RandomForestRegressor model training..
+2022-05-26/13:37:08		RandomForestRegresor model training completed
+2022-05-26/13:37:08		Starting ElasticNetRegresor model training..
+2022-05-26/13:37:08		ElasticNetRegresor model training completed
+2022-05-26/13:37:08		Copmparing Model process started
+2022-05-26/13:37:08		On comparision RandomForestReg performed better with score 0.9558718318295217 while ElasticNetReg got a score of 0.6221004706065945 
+2022-05-26/13:37:50		Starting RandomForestRegressor model training..
+2022-05-26/13:37:51		RandomForestRegresor model training completed
+2022-05-26/13:37:51		RandomForestRegresor model : RandomForestReg_df_cluster_4.0  Saved successully
+2022-05-26/13:37:08		Initiating model_selector
+2022-05-26/13:37:08		Comparing models for cluster, df_cluster_4.0 
+2022-05-26/13:37:08		RandomForestReg performed better for cluster - df_cluster_4.0, therefore choosing and tuning it
+2022-05-26/13:37:51		Model Selection Process competed.
+2022-05-26/13:37:51		Starting RandomForestRegressor model training..
+2022-05-26/13:37:52		RandomForestRegresor model training completed
+2022-05-26/13:37:52		Starting ElasticNetRegresor model training..
+2022-05-26/13:37:52		ElasticNetRegresor model training completed
+2022-05-26/13:37:51		Copmparing Model process started
+2022-05-26/13:37:52		On comparision RandomForestReg performed better with score 0.9864042603032205 while ElasticNetReg got a score of 0.6657213619811307 
+2022-05-26/13:38:45		Starting RandomForestRegressor model training..
+2022-05-26/13:38:45		RandomForestRegresor model training completed
+2022-05-26/13:38:45		RandomForestRegresor model : RandomForestReg_df_cluster_0.0  Saved successully
+2022-05-26/13:37:51		Initiating model_selector
+2022-05-26/13:37:51		Comparing models for cluster, df_cluster_0.0 
+2022-05-26/13:37:52		RandomForestReg performed better for cluster - df_cluster_0.0, therefore choosing and tuning it
+2022-05-26/13:38:45		Model Selection Process competed.
+2022-05-26/13:38:45		Starting RandomForestRegressor model training..
+2022-05-26/13:38:46		RandomForestRegresor model training completed
+2022-05-26/13:38:46		Starting ElasticNetRegresor model training..
+2022-05-26/13:38:46		ElasticNetRegresor model training completed
+2022-05-26/13:38:45		Copmparing Model process started
+2022-05-26/13:38:46		On comparision RandomForestReg performed better with score 0.9859193699809987 while ElasticNetReg got a score of 0.6111301449319813 
+2022-05-26/13:39:28		Starting RandomForestRegressor model training..
+2022-05-26/13:39:28		RandomForestRegresor model training completed
+2022-05-26/13:39:28		RandomForestRegresor model : RandomForestReg_df_cluster_2.0  Saved successully
+2022-05-26/13:38:45		Initiating model_selector
+2022-05-26/13:38:45		Comparing models for cluster, df_cluster_2.0 
+2022-05-26/13:38:46		RandomForestReg performed better for cluster - df_cluster_2.0, therefore choosing and tuning it
+2022-05-26/13:39:28		Model Selection Process competed.
+2022-05-26/13:39:28		Starting RandomForestRegressor model training..
+2022-05-26/13:39:29		RandomForestRegresor model training completed
+2022-05-26/13:39:29		Starting ElasticNetRegresor model training..
+2022-05-26/13:39:29		ElasticNetRegresor model training completed
+2022-05-26/13:39:28		Copmparing Model process started
+2022-05-26/13:39:29		On comparision RandomForestReg performed better with score 0.9811953607531013 while ElasticNetReg got a score of 0.5242771311709303 
+2022-05-26/13:40:07		Starting RandomForestRegressor model training..
+2022-05-26/13:40:07		RandomForestRegresor model training completed
+2022-05-26/13:40:07		RandomForestRegresor model : RandomForestReg_df_cluster_7.0  Saved successully
+2022-05-26/13:39:28		Initiating model_selector
+2022-05-26/13:39:28		Comparing models for cluster, df_cluster_7.0 
+2022-05-26/13:39:29		RandomForestReg performed better for cluster - df_cluster_7.0, therefore choosing and tuning it
+2022-05-26/13:40:07		Model Selection Process competed.
+2022-05-26/15:09:05		Starting RandomForestRegressor model training..
+2022-05-26/15:09:05		RandomForestRegresor model training completed
+2022-05-26/15:09:05		Starting ElasticNetRegresor model training..
+2022-05-26/15:09:05		ElasticNetRegresor model training completed
+2022-05-26/15:09:05		Copmparing Model process started
+2022-05-26/15:09:05		On comparision RandomForestReg performed better with score 0.9962587004735353 while ElasticNetReg got a score of 0.6980481272479016 
+2022-05-26/15:09:46		Starting RandomForestRegressor model training..
+2022-05-26/15:09:47		RandomForestRegresor model training completed
+2022-05-26/15:09:47		RandomForestRegresor model : RandomForestReg_df_cluster_0.0  Saved successully
+2022-05-26/15:09:05		Initiating model_selector
+2022-05-26/15:09:05		Comparing models for cluster, df_cluster_0.0 
+2022-05-26/15:09:05		RandomForestReg performed better for cluster - df_cluster_0.0, therefore choosing and tuning it
+2022-05-26/15:09:47		Model Selection Process competed.
+2022-05-26/15:09:47		Starting RandomForestRegressor model training..
+2022-05-26/15:09:47		RandomForestRegresor model training completed
+2022-05-26/15:09:47		Starting ElasticNetRegresor model training..
+2022-05-26/15:09:47		ElasticNetRegresor model training completed
+2022-05-26/15:09:47		Copmparing Model process started
+2022-05-26/15:09:47		On comparision RandomForestReg performed better with score 0.9954535221912895 while ElasticNetReg got a score of 0.6446390289736939 
+2022-05-26/15:10:24		Starting RandomForestRegressor model training..
+2022-05-26/15:10:24		RandomForestRegresor model training completed
+2022-05-26/15:10:24		RandomForestRegresor model : RandomForestReg_df_cluster_4.0  Saved successully
+2022-05-26/15:09:47		Initiating model_selector
+2022-05-26/15:09:47		Comparing models for cluster, df_cluster_4.0 
+2022-05-26/15:09:47		RandomForestReg performed better for cluster - df_cluster_4.0, therefore choosing and tuning it
+2022-05-26/15:10:24		Model Selection Process competed.
+2022-05-26/15:10:24		Starting RandomForestRegressor model training..
+2022-05-26/15:10:24		RandomForestRegresor model training completed
+2022-05-26/15:10:24		Starting ElasticNetRegresor model training..
+2022-05-26/15:10:25		ElasticNetRegresor model training completed
+2022-05-26/15:10:24		Copmparing Model process started
+2022-05-26/15:10:25		On comparision RandomForestReg performed better with score 0.9985159082254322 while ElasticNetReg got a score of 0.7142513145554936 
+2022-05-26/15:11:03		Starting RandomForestRegressor model training..
+2022-05-26/15:11:04		RandomForestRegresor model training completed
+2022-05-26/15:11:04		RandomForestRegresor model : RandomForestReg_df_cluster_6.0  Saved successully
+2022-05-26/15:10:24		Initiating model_selector
+2022-05-26/15:10:24		Comparing models for cluster, df_cluster_6.0 
+2022-05-26/15:10:25		RandomForestReg performed better for cluster - df_cluster_6.0, therefore choosing and tuning it
+2022-05-26/15:11:04		Model Selection Process competed.
+2022-05-26/15:11:04		Starting RandomForestRegressor model training..
+2022-05-26/15:11:04		RandomForestRegresor model training completed
+2022-05-26/15:11:04		Starting ElasticNetRegresor model training..
+2022-05-26/15:11:04		ElasticNetRegresor model training completed
+2022-05-26/15:11:04		Copmparing Model process started
+2022-05-26/15:11:04		On comparision RandomForestReg performed better with score 0.9942753550663929 while ElasticNetReg got a score of 0.5258641586639934 
+2022-05-26/15:11:42		Starting RandomForestRegressor model training..
+2022-05-26/15:11:42		RandomForestRegresor model training completed
+2022-05-26/15:11:42		RandomForestRegresor model : RandomForestReg_df_cluster_7.0  Saved successully
+2022-05-26/15:11:04		Initiating model_selector
+2022-05-26/15:11:04		Comparing models for cluster, df_cluster_7.0 
+2022-05-26/15:11:04		RandomForestReg performed better for cluster - df_cluster_7.0, therefore choosing and tuning it
+2022-05-26/15:11:42		Model Selection Process competed.
+2022-05-26/15:11:42		Starting RandomForestRegressor model training..
+2022-05-26/15:11:43		RandomForestRegresor model training completed
+2022-05-26/15:11:43		Starting ElasticNetRegresor model training..
+2022-05-26/15:11:43		ElasticNetRegresor model training completed
+2022-05-26/15:11:42		Copmparing Model process started
+2022-05-26/15:11:43		On comparision RandomForestReg performed better with score 0.9673789412593488 while ElasticNetReg got a score of 0.5322787022592073 
+2022-05-26/15:12:21		Starting RandomForestRegressor model training..
+2022-05-26/15:12:22		RandomForestRegresor model training completed
+2022-05-26/15:12:22		RandomForestRegresor model : RandomForestReg_df_cluster_5.0  Saved successully
+2022-05-26/15:11:42		Initiating model_selector
+2022-05-26/15:11:42		Comparing models for cluster, df_cluster_5.0 
+2022-05-26/15:11:43		RandomForestReg performed better for cluster - df_cluster_5.0, therefore choosing and tuning it
+2022-05-26/15:12:22		Model Selection Process competed.
+2022-05-26/15:12:22		Starting RandomForestRegressor model training..
+2022-05-26/15:12:22		RandomForestRegresor model training completed
+2022-05-26/15:12:22		Starting ElasticNetRegresor model training..
+2022-05-26/15:12:22		ElasticNetRegresor model training completed
+2022-05-26/15:12:22		Copmparing Model process started
+2022-05-26/15:12:22		On comparision RandomForestReg performed better with score 0.9829205357063419 while ElasticNetReg got a score of 0.6748407338536258 
+2022-05-26/15:13:00		Starting RandomForestRegressor model training..
+2022-05-26/15:13:00		RandomForestRegresor model training completed
+2022-05-26/15:13:00		RandomForestRegresor model : RandomForestReg_df_cluster_3.0  Saved successully
+2022-05-26/15:12:22		Initiating model_selector
+2022-05-26/15:12:22		Comparing models for cluster, df_cluster_3.0 
+2022-05-26/15:12:22		RandomForestReg performed better for cluster - df_cluster_3.0, therefore choosing and tuning it
+2022-05-26/15:13:00		Model Selection Process competed.
+2022-05-26/15:13:00		Starting RandomForestRegressor model training..
+2022-05-26/15:13:01		RandomForestRegresor model training completed
+2022-05-26/15:13:01		Starting ElasticNetRegresor model training..
+2022-05-26/15:13:01		ElasticNetRegresor model training completed
+2022-05-26/15:13:00		Copmparing Model process started
+2022-05-26/15:13:01		On comparision RandomForestReg performed better with score 0.9973055933059136 while ElasticNetReg got a score of 0.5645189077479618 
+2022-05-26/15:13:41		Starting RandomForestRegressor model training..
+2022-05-26/15:13:41		RandomForestRegresor model training completed
+2022-05-26/15:13:41		RandomForestRegresor model : RandomForestReg_df_cluster_1.0  Saved successully
+2022-05-26/15:13:00		Initiating model_selector
+2022-05-26/15:13:00		Comparing models for cluster, df_cluster_1.0 
+2022-05-26/15:13:01		RandomForestReg performed better for cluster - df_cluster_1.0, therefore choosing and tuning it
+2022-05-26/15:13:41		Model Selection Process competed.
+2022-05-26/15:13:41		Starting RandomForestRegressor model training..
+2022-05-26/15:13:42		RandomForestRegresor model training completed
+2022-05-26/15:13:42		Starting ElasticNetRegresor model training..
+2022-05-26/15:13:42		ElasticNetRegresor model training completed
+2022-05-26/15:13:41		Copmparing Model process started
+2022-05-26/15:13:42		On comparision RandomForestReg performed better with score 0.9976022000392456 while ElasticNetReg got a score of 0.5213897741270714 
+2022-05-26/15:14:21		Starting RandomForestRegressor model training..
+2022-05-26/15:14:21		RandomForestRegresor model training completed
+2022-05-26/15:14:21		RandomForestRegresor model : RandomForestReg_df_cluster_2.0  Saved successully
+2022-05-26/15:13:41		Initiating model_selector
+2022-05-26/15:13:41		Comparing models for cluster, df_cluster_2.0 
+2022-05-26/15:13:42		RandomForestReg performed better for cluster - df_cluster_2.0, therefore choosing and tuning it
+2022-05-26/15:14:21		Model Selection Process competed.

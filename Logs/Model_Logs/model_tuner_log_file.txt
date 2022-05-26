@@ -1,36 +1,68 @@
-2022-05-22/21:47:53		Starting GridSearch
-2022-05-22/21:48:27		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 75} /nBest Score : 0.6246426422283801 
-2022-05-22/21:47:53		Initiating find_best_param process ..
-2022-05-22/21:48:27		find_best_param successfully completed
-2022-05-22/21:48:28		Starting GridSearch
-2022-05-22/21:49:02		Best Params : {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 3} /nBest Score : 0.012557455035777987 
-2022-05-22/21:48:28		Initiating find_best_param process ..
-2022-05-22/21:49:02		find_best_param successfully completed
-2022-05-22/21:49:02		Starting GridSearch
-2022-05-22/21:49:42		Best Params : {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 25} /nBest Score : 0.5016875414995644 
-2022-05-22/21:49:02		Initiating find_best_param process ..
-2022-05-22/21:49:42		find_best_param successfully completed
-2022-05-22/21:49:43		Starting GridSearch
-2022-05-22/21:50:16		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 3} /nBest Score : 0.8518180444577087 
-2022-05-22/21:49:43		Initiating find_best_param process ..
-2022-05-22/21:50:16		find_best_param successfully completed
-2022-05-22/21:50:17		Starting GridSearch
-2022-05-22/21:50:50		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.7695485680898398 
-2022-05-22/21:50:17		Initiating find_best_param process ..
-2022-05-22/21:50:50		find_best_param successfully completed
-2022-05-22/21:50:51		Starting GridSearch
-2022-05-22/21:51:30		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.09894714719101086 
-2022-05-22/21:50:51		Initiating find_best_param process ..
-2022-05-22/21:51:30		find_best_param successfully completed
-2022-05-22/21:51:31		Starting GridSearch
-2022-05-22/21:52:12		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.6288637364271242 
-2022-05-22/21:51:31		Initiating find_best_param process ..
-2022-05-22/21:52:12		find_best_param successfully completed
-2022-05-22/21:52:13		Starting GridSearch
-2022-05-22/21:52:45		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 25} /nBest Score : 0.5976783074713254 
-2022-05-22/21:52:13		Initiating find_best_param process ..
-2022-05-22/21:52:45		find_best_param successfully completed
-2022-05-22/21:52:45		Starting GridSearch
-2022-05-22/21:53:18		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.6930035294954809 
-2022-05-22/21:52:45		Initiating find_best_param process ..
-2022-05-22/21:53:18		find_best_param successfully completed
+2022-05-26/13:33:27		Starting GridSearch
+2022-05-26/13:34:17		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 75} /nBest Score : 0.6246426422283801 
+2022-05-26/13:33:27		Initiating find_best_param process ..
+2022-05-26/13:34:17		find_best_param successfully completed
+2022-05-26/13:34:18		Starting GridSearch
+2022-05-26/13:35:00		Best Params : {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 3} /nBest Score : 0.012557455035777987 
+2022-05-26/13:34:18		Initiating find_best_param process ..
+2022-05-26/13:35:00		find_best_param successfully completed
+2022-05-26/13:35:01		Starting GridSearch
+2022-05-26/13:35:39		Best Params : {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 25} /nBest Score : 0.5016875414995644 
+2022-05-26/13:35:01		Initiating find_best_param process ..
+2022-05-26/13:35:39		find_best_param successfully completed
+2022-05-26/13:35:40		Starting GridSearch
+2022-05-26/13:36:26		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 3} /nBest Score : 0.8518180444577087 
+2022-05-26/13:35:40		Initiating find_best_param process ..
+2022-05-26/13:36:26		find_best_param successfully completed
+2022-05-26/13:36:27		Starting GridSearch
+2022-05-26/13:37:07		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.7695485680898398 
+2022-05-26/13:36:27		Initiating find_best_param process ..
+2022-05-26/13:37:07		find_best_param successfully completed
+2022-05-26/13:37:08		Starting GridSearch
+2022-05-26/13:37:50		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.09894714719101086 
+2022-05-26/13:37:08		Initiating find_best_param process ..
+2022-05-26/13:37:50		find_best_param successfully completed
+2022-05-26/13:37:52		Starting GridSearch
+2022-05-26/13:38:45		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.6288637364271242 
+2022-05-26/13:37:52		Initiating find_best_param process ..
+2022-05-26/13:38:45		find_best_param successfully completed
+2022-05-26/13:38:46		Starting GridSearch
+2022-05-26/13:39:28		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 25} /nBest Score : 0.5976783074713254 
+2022-05-26/13:38:46		Initiating find_best_param process ..
+2022-05-26/13:39:28		find_best_param successfully completed
+2022-05-26/13:39:29		Starting GridSearch
+2022-05-26/13:40:07		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.6930035294954809 
+2022-05-26/13:39:29		Initiating find_best_param process ..
+2022-05-26/13:40:07		find_best_param successfully completed
+2022-05-26/15:09:05		Starting GridSearch
+2022-05-26/15:09:46		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.9673130875630236 
+2022-05-26/15:09:05		Initiating find_best_param process ..
+2022-05-26/15:09:46		find_best_param successfully completed
+2022-05-26/15:09:47		Starting GridSearch
+2022-05-26/15:10:24		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.9615308697037099 
+2022-05-26/15:09:47		Initiating find_best_param process ..
+2022-05-26/15:10:24		find_best_param successfully completed
+2022-05-26/15:10:25		Starting GridSearch
+2022-05-26/15:11:03		Best Params : {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 75} /nBest Score : 0.9888037555090332 
+2022-05-26/15:10:25		Initiating find_best_param process ..
+2022-05-26/15:11:03		find_best_param successfully completed
+2022-05-26/15:11:04		Starting GridSearch
+2022-05-26/15:11:42		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50} /nBest Score : 0.9687219671537693 
+2022-05-26/15:11:04		Initiating find_best_param process ..
+2022-05-26/15:11:42		find_best_param successfully completed
+2022-05-26/15:11:43		Starting GridSearch
+2022-05-26/15:12:21		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.9282103772835978 
+2022-05-26/15:11:43		Initiating find_best_param process ..
+2022-05-26/15:12:21		find_best_param successfully completed
+2022-05-26/15:12:22		Starting GridSearch
+2022-05-26/15:13:00		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.9635522626520258 
+2022-05-26/15:12:22		Initiating find_best_param process ..
+2022-05-26/15:13:00		find_best_param successfully completed
+2022-05-26/15:13:01		Starting GridSearch
+2022-05-26/15:13:41		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.9734218046046674 
+2022-05-26/15:13:01		Initiating find_best_param process ..
+2022-05-26/15:13:41		find_best_param successfully completed
+2022-05-26/15:13:42		Starting GridSearch
+2022-05-26/15:14:21		Best Params : {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100} /nBest Score : 0.9837550832259584 
+2022-05-26/15:13:42		Initiating find_best_param process ..
+2022-05-26/15:14:21		find_best_param successfully completed
